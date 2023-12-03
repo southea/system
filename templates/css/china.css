@@ -1,0 +1,41 @@
+.row {
+    margin: 0 auto;
+}
+#china-map {
+    /* width: 1500px;
+    height: 750px;
+    position: absolute;
+    top: calc(50% - 430px);
+    left: calc(50% - 830px); */
+    width: 80%; /* 调整为更大的宽度 */
+    height: 750px; /* 调整为更大的高度，使用视口高度的百分比 */
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* 使用transform属性进行居中 */
+    
+}
+#tagbox{
+    position: absolute;
+    left: 14%;
+    top: 68%;
+    transform: scale(0.73);
+    background:rgb(0,0,0,0);
+}
+#tagbox span{
+    position:absolute;
+    padding:3px 3px;
+    font-family:Microsoft YaHei;
+    TOP:0px;
+    font-size: 14px;
+    font-weight:bold;
+    text-decoration:none;
+    left:0px
+}
+#pie{
+    position:absolute;
+    left: 73%;
+    top: 33%;
+    width: 300px;
+    height: 500px;
+}

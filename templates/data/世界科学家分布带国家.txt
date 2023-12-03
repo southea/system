@@ -1,0 +1,237 @@
+const mapData1 = [
+    {
+        "name": "United States of America",
+        "value": 1081,
+        "continent": "North America"
+    },
+    {
+        "name": "Canada",
+        "value": 77,
+        "continent": "North America"
+    },
+    {
+        "name": "United Kingdom",
+        "value": 112,
+        "continent": "Europe"
+    },
+    {
+        "name": "Spain",
+        "value": 21,
+        "continent": "Europe"
+    },
+    {
+        "name": "Germany",
+        "value": 83,
+        "continent": "Europe"
+    },
+    {
+        "name": "Australia",
+        "value": 51,
+        "continent": "Oceania"
+    },
+    {
+        "name": "China",
+        "value": 194,
+        "continent": "Asia"
+    },
+    {
+        "name": "France",
+        "value": 28,
+        "continent": "Europe"
+    },
+    {
+        "name": "Switzerland",
+        "value": 50,
+        "continent": "Europe"
+    },
+    {
+        "name": "United Arab Emirates",
+        "value": 3,
+        "continent": "Asia"
+    },
+    {
+        "name": "Singapore",
+        "value": 31,
+        "continent": "Asia"
+    },
+    {
+        "name": "Sweden",
+        "value": 9,
+        "continent": "Europe"
+    },
+    {
+        "name": "Poland",
+        "value": 4,
+        "continent": "Europe"
+    },
+    {
+        "name": "Israel",
+        "value": 39,
+        "continent": "Asia"
+    },
+    {
+        "name": "Belgium",
+        "value": 23,
+        "continent": "Europe"
+    },
+    {
+        "name": "Netherlands",
+        "value": 20,
+        "continent": "Europe"
+    },
+    {
+        "name": "Austria",
+        "value": 13,
+        "continent": "Europe"
+    },
+    {
+        "name": "Taiwan",
+        "value": 11,
+        "continent": "Asia"
+    },
+    {
+        "name": "Japan",
+        "value": 19,
+        "continent": "Asia"
+    },
+    {
+        "name": "Hungary",
+        "value": 2,
+        "continent": "Europe"
+    },
+    {
+        "name": "Italy",
+        "value": 34,
+        "continent": "Europe"
+    },
+    {
+        "name": "India",
+        "value": 12,
+        "continent": "Asia"
+    },
+    {
+        "name": "Iceland",
+        "value": 1,
+        "continent": "Europe"
+    },
+    {
+        "name": "Denmark",
+        "value": 9,
+        "continent": "Europe"
+    },
+    {
+        "name": "Mexico",
+        "value": 3,
+        "continent": "North America"
+    },
+    {
+        "name": "Finland",
+        "value": 16,
+        "continent": "Europe"
+    },
+    {
+        "name": "Brazil",
+        "value": 2,
+        "continent": "South America"
+    },
+    {
+        "name": "Czech Republic",
+        "value": 2,
+        "continent": "Europe"
+    },
+    {
+        "name": "Saudi Arabia",
+        "value": 5,
+        "continent": "Asia"
+    },
+    {
+        "name": "Greece",
+        "value": 7,
+        "continent": "Europe"
+    },
+    {
+        "name": "Qatar",
+        "value": 4,
+        "continent": "Asia"
+    },
+    {
+        "name": "Ireland",
+        "value": 6,
+        "continent": "Europe"
+    },
+    {
+        "name": "New Zealand",
+        "value": 3,
+        "continent": "Oceania"
+    },
+    {
+        "name": "Estonia",
+        "value": 1,
+        "continent": "Europe"
+    },
+    {
+        "name": "Chile",
+        "value": 1,
+        "continent": "South America"
+    },
+    {
+        "name": "Republic of Korea",
+        "value": 5,
+        "continent": "Asia"
+    },
+    {
+        "name": "Egypt",
+        "value": 2,
+        "continent": "Africa"
+    },
+    {
+        "name": "Portugal",
+        "value": 3,
+        "continent": "Europe"
+    },
+    {
+        "name": "Norway",
+        "value": 1,
+        "continent": "Europe"
+    },
+    {
+        "name": "Pakistan",
+        "value": 1,
+        "continent": "Asia"
+    },
+    {
+        "name": "Romania",
+        "value": 1,
+        "continent": "Europe"
+    },
+    {
+        "name": "Luxembourg",
+        "value": 1,
+        "continent": "Europe"
+    },
+    {
+        "name": "Malaysia",
+        "value": 2,
+        "continent": "Asia"
+    },
+    {
+        "name": "South Africa",
+        "value": 2,
+        "continent": "Africa"
+    },
+    {
+        "name": "Turkey",
+        "value": 1,
+        "continent": "Asia"
+    },
+    {
+        "name": "Jordan",
+        "value": 1,
+        "continent": "Asia"
+    },
+    {
+        "name": "Cyprus",
+        "value": 1,
+        "continent": "Asia"
+    }
+];

@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>World</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<meta name="keywords" content="" />
+
+	<script type="application/x-javascript">
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<link href="css/style.css" rel='stylesheet' type='text/css' />
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,300i,400,400i,700,700i,800"
+		rel="stylesheet">
+	<link href="http://fonts.googleapis.com/css?family=Mallanna" rel="stylesheet">
+	<link rel="stylesheet" href="css/world.css">
+</head>
+
+<body>
+	<div class="header inner_banner" id="home">
+		<!--/top-bar-->
+		<div class="top-bar">
+			<div class="header-nav-agileits">
+
+				<nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+							data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<h1><a class="navbar-brand" href="Home.html">CS Network</a></h1>
+					</div>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+						<nav>
+							<ul class="top_nav">
+								<li><a href="Home.html" class="active">Home</a></li>
+								<li><a href="CS Network Graph.html">CS Network Graph</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="Pages"
+										role="button" aria-haspopup="true" aria-expanded="false">Distribution<span
+											class="fa fa-angle-down"></span></a>
+									<ul class="dropdown-menu">
+										<li><a href="World.html">World</a></li>
+										<li><a href="China.html">China</a></li>
+									</ul>
+								</li>
+								<li><a href="Filter.html">Filter</a></li>
+								<li><a href="Paper Recommendation.html">Paper Recommendation</a></li>
+							</ul>
+						</nav>
+					</div>
+				</nav>
+
+			</div>
+		</div>
+		<!--//top-bar-->
+		<!--/ banner-text -->
+		<!--// banner-text -->
+	</div>
+	<!--//inner_banner-->
+	<!--/short-->
+	<div class="services-breadcrumb-w3ls-agile">
+		<div class="inner_breadcrumb">
+
+			<ul class="short">
+				<li><a href="Home.html">Home</a><span>|</span></li>
+				<li>World</li>
+			</ul>
+		</div>
+	</div>
+	<!--//short-->
+	<!-- //inner_content -->
+
+	<!-- 头部 -->
+	<header>
+		<h1>World's top 2000 computer scientists analysis</h1>
+		<div class="show-time"></div>
+		<script>
+			var t = null;
+			t = setTimeout(time, 1000); //开始运行
+			function time() {
+				clearTimeout(t); //清除定时器
+				dt = new Date();
+				var y = dt.getFullYear();
+				var mt = dt.getMonth() + 1;
+				var day = dt.getDate();
+				var h = dt.getHours(); //获取时
+				var m = dt.getMinutes(); //获取分
+				var s = dt.getSeconds(); //获取秒
+				document.querySelector(".show-time").innerHTML =
+					"time：" +
+					y +
+					"年" +
+					mt +
+					"月" +
+					day +
+					"日-" +
+					h +
+					"时" +
+					m +
+					"分" +
+					s +
+					"秒";
+				t = setTimeout(time, 1000); //设定定时器，循环运行
+			}
+		</script>
+	</header>
+
+	<!-- 页面主体 -->
+	<section class="mainbox">
+		<!-- 左侧盒子 -->
+		<div class="column">
+			<!-- 热点分布 -->
+			<div class="hot"></div>
+			<!-- 词云图 -->
+			<div class="wordcloud">
+				<div id="tagbox">
+					<span class="star">Artificial intelligence</span>
+					<span class="star">Operating system</span>
+					<span class="star">Statistics</span>
+					<span class="star">Machine learning</span>
+					<span class="star">Computer vision</span>
+					<span>Computer network</span>
+					<span>The Internet</span>
+					<span>Programming language</span>
+					<span>Algorithm</span>
+					<span>Computer vision</span>
+					<span>Database</span>
+					<span>Software</span>
+					<span>Mathematical optimization</span>
+					<span>Natural language processing</span>
+					<span>Graph coloring</span>
+					<span>Algorithm</span>
+					<span>World Wide Web</span>
+					<span>Information technology</span>
+					<span>Mathematical optimization</span>
+					<span>blockchain</span>
+					<span>Cloud computing</span>
+					<span>Computer security</span>
+					<span>Image Classification</span>
+					<span>Graph Theory</span>
+					<span>Neural networks</span>
+					<span>visualization</span>
+					<span>Image Processing</span>
+					<span>Computer graphics</span>
+					<span>Video Communication</span>
+				</div>
+			</div>
+		</div>
+		<!-- 中间盒子 -->
+		<div class="column">
+			<!-- map模块 -->
+			<div id="map"></div>
+			<!-- 各大洲统计柱状图 -->
+			<div class="container-custom">
+				<div id="midbarChart"></div>
+			</div>
+		</div>
+		<!-- 右侧盒子 -->
+		<div class="column">
+			<!-- 搜索框 -->
+			<div class="xixi">
+				<div id="container">
+					<select id="continentSelect" onchange="showCountries()">
+						<option value="North America" selected>North America</option>
+						<option value="Europe">Europe</option>
+						<option value="Asia">Asia</option>
+						<option value="Oceania">Oceania</option>
+						<option value="South America">South America</option>
+						<option value="Africa">Africa</option>
+					</select>
+					<ul id="countryList"></ul>
+				</div>
+			</div>
+			<!-- 柱形图 -->
+			<div class="lala">
+				<div id="barChart"></div>
+			</div>
+			<!-- 扇形图 -->
+			<div class="lala">
+				<div id="pieChart"></div>
+			</div>
+		</div>
+	</section>
+
+
+
+
+	<!--footer-->
+	<div class="contact-footer-w3layouts-agile">
+
+		<div class="bottom-social-agileits-w3ls">
+			<div class="container">
+				<div class="col-md-8 botttom-nav-w3ls-agileits">
+					<ul class="f_links col-md-4">
+						<li>
+							<a href="Home.html">Home</a>
+						</li>
+						<li>
+							<a href="CS Network Graph.html">CS Network Graph</a>
+						</li>
+						<li>
+							<a href="World.html">World</a>
+						</li>
+						<li>
+							<a href="China.html">China</a>
+						</li>
+						<li>
+							<a href="Filter.html">Filter</a>
+						</li>
+					</ul>
+					<ul class="f_links col-md-4">
+						<li>
+							<a href="index.html">Topics</a>
+						</li>
+						<li>
+							<a href="404.html">Blog</a>
+						</li>
+						<li>
+							<a href="404.html">Careers</a>
+						</li>
+						<li>
+							<a href="services.html">Services</a>
+						</li>
+
+					</ul>
+					<ul class="f_links thrd col-md-4">
+						<li>
+							<a href="index.html">Topics</a>
+						</li>
+						<li>
+							<a href="404.html">Events</a>
+						</li>
+						<li>
+							<a href="app.html">Mobile App</a>
+						</li>
+
+
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				<div class="col-md-4 social-icons-wthree">
+					<h6>Connect with us</h6>
+					<a class="facebook" href="#"><span class="fa fa-facebook"></span></a>
+					<a class="twitter" href="#"><span class="fa fa-twitter"></span></a>
+					<a class="pinterest" href="#"><span class="fa fa-pinterest-p"></span></a>
+					<a class="linkedin" href="#"><span class="fa fa-linkedin"></span></a>
+				</div>
+				<div class="clearfix"></div>
+
+			</div>
+		</div>
+		<div class="copy-w3-agileits">
+			<h2 class="footer-logo"><a href="Home.html">CS Network</a></h2>
+			<p>Copyright &copy; 2018.Company name All rights reserved.</p>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<!--/footer -->
+	<!-- js -->
+	<script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
+	<!-- //js -->
+	<!--search-bar-->
+	<script src="js/main.js"></script>
+	<!--//search-bar-->
+	<link rel="stylesheet" type="text/css" href="css/easy-responsive-tabs.css " />
+	<script src="js/easyResponsiveTabs.js"></script>
+	<!--Plug-in Initialisation-->
+	<script type="text/javascript">
+		$(document).ready(function () {
+
+			//Vertical Tab
+			$('#parentVerticalTab').easyResponsiveTabs({
+				type: 'vertical', //Types: default, vertical, accordion
+				width: 'auto', //auto or any width like 600px
+				fit: true, // 100% fit in a container
+				closed: 'accordion', // Start closed if in accordion view
+				tabidentify: 'hor_1', // The tab groups identifier
+				activate: function (event) { // Callback function if tab is switched
+					var $tab = $(this);
+					var $info = $('#nested-tabInfo2');
+					var $name = $('span', $info);
+					$name.text($tab.text());
+					$info.show();
+				}
+			});
+		});
+	</script>
+	<!--/script-->
+	<!-- start-smoth-scrolling -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function ($) {
+			$(".scroll").click(function (event) {
+				event.preventDefault();
+				$('html,body').animate({
+					scrollTop: $(this.hash).offset().top
+				}, 900);
+			});
+		});
+	</script>
+	<!-- start-smoth-scrolling -->
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+									var defaults = {
+											containerID: 'toTop', // fading element id
+										containerHoverID: 'toTopHover', // fading element hover id
+										scrollSpeed: 1200,
+										easingType: 'linear' 
+										};
+									*/
+
+			$().UItoTop({
+				easingType: 'easeOutQuart'
+			});
+
+		});
+	</script>
+	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
+
+</body>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="./js/echarts.min.js"></script>
+<script src="./js/worldmap.js"></script>
+<script src="./js/world_中下框.js"></script>
+<script src="./js/world_右边.js"></script>
+<script src="./js/world_左上.js"></script>
+<script src="./js/worldcloud.js"></script>
+
+</html>

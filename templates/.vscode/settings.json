@@ -1,0 +1,35 @@
+{
+    "kunpeng.remote.ssh.machineinfo": [
+        {
+            "label": "openEuler",
+            "ip": "123.249.122.191",
+            "port": "22",
+            "user": "root",
+            "workspace": "/home/code"
+        }
+    ],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "kunpeng.func",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.intrinsics",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.builtIn",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            }
+        ]
+    },
+    "kunpeng.remote.ssh.clientpath": "C:\\Windows\\System32\\OpenSSH\\ssh.exe",
+    "kunpeng.remote.ssh.isAutoSyncCode": false
+}

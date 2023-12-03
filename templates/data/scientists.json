@@ -1,0 +1,3181 @@
+{
+  "nodes": [
+    {
+      "name": "Anil K. Jain",
+      "country": "United States",
+      "School": "Michigan State University",
+      "Famous": "Nuclear physics ,Atomic physics ,Ecology ",
+      "image": "https://s.research.com/images/2a967b4499197336b91a5320a50e13c0f8b608f6-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Arun Ross, Rong Jin, Karthik Nandakumar, Sharath Pankanti, Salil Prabhakar, Hu Han, Jianjiang Feng, Patrick J. Flynn, Nalini K. Ratha, M¨¢rio A. T. Figueiredo",
+      "D-Index": 203,
+      "Citations": 250990,
+      "#DBLP": 970,
+      "World Rank": 1,
+      "National Rank": 1,
+      "val": 2.58
+    },
+    {
+      "name": "Arun Ross",
+      "country": "United States",
+      "School": "Michigan State University",
+      "Famous": "Artificial intelligence ,Biometrics ,Pattern recognition ",
+      "image": "https://s.research.com/images/967a03c18fefaa058734f458ccb89115fa9c52cb-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Karthik Nandakumar, Richa Singh, Salil Prabhakar, B. V. K. Vijaya Kumar, Mayank Vatsa, Norman Poh, Xiaoming Liu, Bojan Cukic, Nasir Memon",
+      "D-Index": 73,
+      "Citations": 36651,
+      "#DBLP": 319,
+      "World Rank": 939,
+      "National Rank": 552,
+      "val": 2.58
+    },
+    {
+      "name": "Kalyanmoy Deb",
+      "country": "United States",
+      "School": "Michigan State University",
+      "Famous": "Mathematical optimization ,Multi-objective optimization ,Optimization problem ",
+      "image": "https://s.research.com/images/7d19bc2723c1d70b206331f9ce6557b5eb84165d-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Erik D. Goodman, Kaisa Miettinen, David E. Goldberg, Eckart Zitzler, Marouane Kessentini, Shahryar Rahnamayan, J¨¹rgen Branke, Qingfu Zhang, Xin Yao, Wolfgang Banzhaf",
+      "D-Index": 124,
+      "Citations": 200335,
+      "#DBLP": 704,
+      "World Rank": 67,
+      "National Rank": 41,
+      "val": 1.25
+    },
+    {
+      "name": "Rong Jin",
+      "country": "China",
+      "School": "Alibaba Group (China)",
+      "Famous": "Artificial intelligence ,Mathematical optimization ,Deep learning ",
+      "image": "https://s.research.com/images/f5ceda3e56542c3a1d2b8e373166c02c8845e3e8-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Shenghuo Zhu, Anil K. Jain, Steven C. H. Hoi, Zhi-Hua Zhou, Alexander G. Hauptmann, Luo Si, Jinfeng Yi, Michael R. Lyu, Joyce Y. Chai",
+      "D-Index": 81,
+      "Citations": 21093,
+      "#DBLP": 395,
+      "World Rank": 602,
+      "National Rank": 49,
+      "val": 1.85
+    },
+    {
+      "name": "Michael I. Jordan",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Algorithm ,Applied mathematics ,Artificial intelligence ",
+      "image": "https://s.research.com/images/56e4335ff90165e81c2e2831225c826fc6141a8b-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Martin J. Wainwright, Peter L. Bartlett, Francis Bach, Benjamin Recht, John C. Duchi, Mingsheng Long, David M. Blei, Ameet Talwalkar, David A. Patterson, Jianmin Wang",
+      "D-Index": 176,
+      "Citations": 220056,
+      "#DBLP": 776,
+      "World Rank": 4,
+      "National Rank": 3,
+      "val": 0.38
+    },
+    {
+      "name": "Thomas S. Huang",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Machine learning ",
+      "image": "https://s.research.com/images/ddd0e184e7830de1843f12b4226530c7bd2a5b06-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jianchao Yang, Yun Fu, Mark Hasegawa-Johnson, Zhangyang Wang, Yong Rui, Shiyu Chang, Shuicheng Yan, Nicu Sebe, Ying Wu, Qi Tian",
+      "D-Index": 165,
+      "Citations": 122431,
+      "#DBLP": 1329,
+      "World Rank": 7,
+      "National Rank": 5,
+      "val": 0.38
+    },
+    {
+      "name": "Takeo Kanade",
+      "country": "United States",
+      "School": "Carnegie Mellon University",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/6f00a60e4fcd5fbf6818a59783cf9b7b4e1576a5-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jeffrey F. Cohn, Josef Kittler, David Hutchison, Simon Baker, Martial Hebert, Katsushi Ikeuchi, Yaser Sheikh, Charles E. Thorpe, Robert T. Collins, Satoshi Kagami",
+      "D-Index": 161,
+      "Citations": 125670,
+      "#DBLP": 751,
+      "World Rank": 8,
+      "National Rank": 6,
+      "val": 0.38
+    },
+    {
+      "name": "Sebastian Thrun",
+      "country": "United States",
+      "School": "Stanford University",
+      "Famous": "Artificial intelligence ,Computer vision ,Algorithm ",
+      "image": "https://s.research.com/images/4d80db997036e941703dd7f9092340d5fa5c6623-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wolfram Burgard, Dieter Fox, Michael Montemerlo, Nicholas Roy, Daphne Koller, Christian Theobalt, Geoffrey J. Gordon, Frank Dellaert, Joelle Pineau, Armin B. Cremers",
+      "D-Index": 152,
+      "Citations": 122976,
+      "#DBLP": 410,
+      "World Rank": 14,
+      "National Rank": 7,
+      "val": 0.38
+    },
+    {
+      "name": "Jitendra Malik",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/2f09aea5c6b3b5def88ee0c3819fe63951ae3fb6-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Pablo Arbel¨¢ez, Charless C. Fowlkes, Saurabh Gupta, Ross Girshick, Serge Belongie, Sergey Levine, Alexei A. Efros, Leonidas J. Guibas, Mark D. Biggin, Bernd Hamann",
+      "D-Index": 145,
+      "Citations": 177214,
+      "#DBLP": 470,
+      "World Rank": 18,
+      "National Rank": 11,
+      "val": 0.38
+    },
+    {
+      "name": "Trevor Darrell",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Machine learning ,Pattern recognition ",
+      "image": "https://s.research.com/images/0e56a8e14a6cb525c2140d99f97cd05b853575e4-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Kate Saenko, Marcus Rohrbach, Judy Hoffman, Fisher Yu, Alex Pentland, Louis-Philippe Morency, Yangqing Jia, Sergey Levine, Alexei A. Efros, Ross Girshick",
+      "D-Index": 144,
+      "Citations": 174042,
+      "#DBLP": 548,
+      "World Rank": 21,
+      "National Rank": 14,
+      "val": 0.38
+    },
+    {
+      "name": "Tomaso Poggio",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Deep learning ",
+      "image": "https://s.research.com/images/089e61e0eb38f5d872a9026cd432d50d942da718-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Lorenzo Rosasco, Thomas Serre, Maximilian Riesenhuber, Christof Koch, Heinrich H. B¨¹lthoff, Hrushikesh N. Mhaskar, Andrew W. Lo, Massimiliano Pontil, Thomas Vetter, Michael Jones",
+      "D-Index": 132,
+      "Citations": 101126,
+      "#DBLP": 554,
+      "World Rank": 37,
+      "National Rank": 23,
+      "val": 0.38
+    },
+    {
+      "name": "Ming-Hsuan Yang",
+      "country": "Merced",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Computer vision ",
+      "image": "https://s.research.com/images/92e940cef3263b91797ed92bb39ea5c0b9cdf349-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jia-Bin Huang, Narendra Ahuja, Huchuan Lu, Jimei Yang, Deqing Sun, Jan Kautz, Lei Zhang, Wangmeng Zuo, Qingxiong Yang, Ming-Yu Liu",
+      "D-Index": 130,
+      "Citations": 89348,
+      "#DBLP": 520,
+      "World Rank": 41,
+      "National Rank": 24,
+      "val": 0.38
+    },
+    {
+      "name": "Rama Chellappa",
+      "country": "United States",
+      "School": "Johns Hopkins University",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Face ",
+      "image": "https://s.research.com/images/8cb953a3db2085f54f8a47aef418684976790b6c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Vishal M. Patel, Ashok Veeraraghavan, Aswin C. Sankaranarayanan, Larry S. Davis, Azriel Rosenfeld, Amit K. Roy-Chowdhury, P. Jonathon Phillips, A. N. Rajagopalan, Nasser M. Nasrabadi, Volkan Cevher",
+      "D-Index": 129,
+      "Citations": 75670,
+      "#DBLP": 982,
+      "World Rank": 47,
+      "National Rank": 26,
+      "val": 0.38
+    },
+    {
+      "name": "Pieter Abbeel",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Reinforcement learning ,Artificial intelligence ,Machine learning ",
+      "image": "https://s.research.com/images/c38e4529bb7e8f2b643521fa50cbcf72c99705a4-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Hugh Durrant-Whyte, Nicholas Roy, Ken Goldberg, Chelsea Finn, John Schulman, Sachin Patil, Andrew Y. Ng, Trevor Darrell, Anca D. Dragan",
+      "D-Index": 129,
+      "Citations": 71119,
+      "#DBLP": 505,
+      "World Rank": 48,
+      "National Rank": 27,
+      "val": 0.38
+    },
+    {
+      "name": "Daphne Koller",
+      "country": "United States",
+      "School": "Stanford University",
+      "Famous": "Artificial intelligence ,Bayesian network ,Pattern recognition ",
+      "image": "https://s.research.com/images/f4c949ab56621082c4ca2bce64ccb3afdbfe6d68-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Nir Friedman, Eran Segal, Joseph Y. Halpern, Aviv Regev, Sebastian Thrun, Andrew Y. Ng, Christophe Benoist, Avi Pfeffer, Stephen Gould, Diane Mathis",
+      "D-Index": 129,
+      "Citations": 65635,
+      "#DBLP": 290,
+      "World Rank": 49,
+      "National Rank": 28,
+      "val": 0.38
+    },
+    {
+      "name": "Alexander J. Smola",
+      "country": "United States",
+      "School": "Amazon (United States)",
+      "Famous": "Artificial intelligence ,Machine learning ,Theoretical computer science ",
+      "image": "https://s.research.com/images/f80a8f23b913b08c81900a781197d09dfdf01357-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Bernhard Sch?lkopf, Amr Ahmed, S. V. N. Vishwanathan, Arthur Gretton, Robert C. Williamson, Le Song, Karsten M. Borgwardt, Quoc V. Le, Peter L. Bartlett, Klaus-Robert M¨¹ller",
+      "D-Index": 128,
+      "Citations": 131160,
+      "#DBLP": 412,
+      "World Rank": 50,
+      "National Rank": 29,
+      "val": 0.38
+    },
+    {
+      "name": "Ronald R. Yager",
+      "country": "United States",
+      "School": "Iona University",
+      "Famous": "Fuzzy logic ,Artificial intelligence ,Fuzzy set ",
+      "image": "https://s.research.com/images/5a14639eddfac1b5e08405ea0463919609392134-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Dimitar Petrov Filev, Radko Mesiar, Frederick E. Petry, Lotfi A. Zadeh, Gabriella Pasi, Jos¨¦ M. Merig¨®, Salvatore Greco, Yakoub Bazi, Janusz Kacprzyk, Vladik Kreinovich",
+      "D-Index": 128,
+      "Citations": 84455,
+      "#DBLP": 928,
+      "World Rank": 51,
+      "National Rank": 30,
+      "val": 0.38
+    },
+    {
+      "name": "Shih-Fu Chang",
+      "country": "United States",
+      "School": "Columbia University",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Natural language processing ",
+      "image": "https://s.research.com/images/6cb1e330a8f5553261feb3ee1959c8b801b9a232-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "John R. Smith, Yu-Gang Jiang, Sanjiv Kumar, Wei Liu, Lyndon Kennedy, Ching-Yung Lin, Lexing Xie, Hari Sundaram, Winston H. Hsu, Heng Ji",
+      "D-Index": 125,
+      "Citations": 61417,
+      "#DBLP": 716,
+      "World Rank": 66,
+      "National Rank": 40,
+      "val": 0.38
+    },
+    {
+      "name": "Li Fei-Fei",
+      "country": "United States",
+      "School": "Stanford University",
+      "Famous": "Artificial intelligence ,Machine learning ,Pattern recognition ",
+      "image": "https://s.research.com/images/9d69f430e92b98f2ddda10d21532406c0201079f-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Diane M. Beck, Li-Jia Li, Alexandre Alahi, Jia Deng, Juan Carlos Niebles, Michael S. Bernstein, Silvio Savarese, Greg Mori, Hao Su, Pietro Perona",
+      "D-Index": 122,
+      "Citations": 160524,
+      "#DBLP": 387,
+      "World Rank": 73,
+      "National Rank": 44,
+      "val": 0.38
+    },
+    {
+      "name": "William T. Freeman",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/326317bdf18dc7d542cd868359a49dfccfb0e6d0-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Antonio Torralba, Fr¨¦do Durand, Joshua B. Tenenbaum, Jiajun Wu, Edward H. Adelson, Ce Liu, Anat Levin, Wojciech Matusik, Yair Weiss, Erik B. Sudderth",
+      "D-Index": 122,
+      "Citations": 83603,
+      "#DBLP": 397,
+      "World Rank": 74,
+      "National Rank": 45,
+      "val": 0.38
+    },
+    {
+      "name": "Larry S. Davis",
+      "country": "College Park",
+      "School": "University of Maryland",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Machine learning ",
+      "image": "https://s.research.com/images/288ef6347d1f4c86c68ceead4c2c4d7b97d92dd3-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ramani Duraiswami, Daniel DeMenthon, Azriel Rosenfeld, Rama Chellappa, Zhe Lin, Abhinav Gupta, Ross Cutler, Bohyung Han, Ahmed Elgammal, David Doermann",
+      "D-Index": 122,
+      "Citations": 68839,
+      "#DBLP": 724,
+      "World Rank": 76,
+      "National Rank": 46,
+      "val": 0.38
+    },
+    {
+      "name": "Huan Liu",
+      "country": "United States",
+      "School": "Arizona State University",
+      "Famous": "Social media ,Artificial intelligence ,Internet privacy ",
+      "image": "https://s.research.com/images/4026325414f2d277a2fea29493953049cc3a5793-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jiliang Tang, Suhang Wang, Xia Hu, Jundong Li, Hiroshi Motoda, Rudy Setiono, Charu C. Aggarwal, Yi Chang, Kathleen M. Carley, George A. Bekey",
+      "D-Index": 121,
+      "Citations": 72802,
+      "#DBLP": 693,
+      "World Rank": 79,
+      "National Rank": 48,
+      "val": 0.38
+    },
+    {
+      "name": "Antonio Torralba",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Computer vision ,Artificial neural network ",
+      "image": "https://s.research.com/images/f095ecfaca3d8a3c4c214239c85cbcdf45b3f6d2-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Aude Oliva, William T. Freeman, Carl Vondrick, Bolei Zhou, Aditya Khosla, Joshua B. Tenenbaum, Jiajun Wu, Jun-Yan Zhu, Sanja Fidler, David Bau",
+      "D-Index": 120,
+      "Citations": 88232,
+      "#DBLP": 328,
+      "World Rank": 83,
+      "National Rank": 52,
+      "val": 0.38
+    },
+    {
+      "name": "Mubarak Shah",
+      "country": "United States",
+      "School": "University of Central Florida",
+      "Famous": "Artificial intelligence ,Machine learning ,Pattern recognition ",
+      "image": "https://s.research.com/images/28796efa4d47a629dd516fca58a6a2d6a9cef8ae-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Yaser Sheikh, Rahul Sukthankar, Concetto Spampinato, Pingkun Yan, Andrew Miller, Boqing Gong, Ajmal Mian, Larry S. Davis, Shih-Fu Chang, Michael Witbrock",
+      "D-Index": 119,
+      "Citations": 70724,
+      "#DBLP": 592,
+      "World Rank": 87,
+      "National Rank": 55,
+      "val": 0.38
+    },
+    {
+      "name": "Alan L. Yuille",
+      "country": "United States",
+      "School": "Johns Hopkins University",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Segmentation ",
+      "image": "https://s.research.com/images/2b128f77d826f6ea7f9353d7fa152ec2004d8e0b-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Lingxi Xie, Elliot K. Fishman, Liang-Chieh Chen, Zhuowen Tu, Song-Chun Zhu, Iasonas Kokkinos, Peng Wang, Jason J. Corso, Lei Xu, Zhe Lin",
+      "D-Index": 118,
+      "Citations": 78298,
+      "#DBLP": 645,
+      "World Rank": 90,
+      "National Rank": 57,
+      "val": 0.38
+    },
+    {
+      "name": "Dieter Fox",
+      "country": "United States",
+      "School": "University of Washington",
+      "Famous": "Artificial intelligence ,Robot ,Computer vision ",
+      "image": "https://s.research.com/images/414ccd6f6fbe42e25c939c387cb6363c0652b8fd-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wolfram Burgard, Sebastian Thrun, Xiaofeng Ren, Liefeng Bo, Armin B. Cremers, Dirk Schulz, Henry Kautz, Kurt Konolige, Ali Farhadi, Fabio Ramos",
+      "D-Index": 115,
+      "Citations": 64875,
+      "#DBLP": 309,
+      "World Rank": 101,
+      "National Rank": 63,
+      "val": 0.38
+    },
+    {
+      "name": "Charu C. Aggarwal",
+      "country": "United States",
+      "School": "IBM (United States)",
+      "Famous": "Artificial intelligence ,Data mining ,Machine learning ",
+      "image": "https://s.research.com/images/e9ca03f0158a96c6f6a21dce3dc36b0838d9eff4-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Philip S. Yu, Jiawei Han, Joel L. Wolf, Jiliang Tang, Guo-Jun Qi, Thomas S. Huang, Chandan K. Reddy, Suhang Wang, Huan Liu, Latifur Khan",
+      "D-Index": 113,
+      "Citations": 63569,
+      "#DBLP": 617,
+      "World Rank": 112,
+      "National Rank": 70,
+      "val": 0.38
+    },
+    {
+      "name": "Martial Hebert",
+      "country": "United States",
+      "School": "Carnegie Mellon University",
+      "Famous": "Artificial intelligence ,Machine learning ,Computer vision ",
+      "image": "https://s.research.com/images/cb7715f36b53d3dcef489e318d31ae79fce6f533-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "J. Andrew Bagnell, Takeo Kanade, Jean Ponce, Anthony Stentz, Katsushi Ikeuchi, Alexei A. Efros, Abhinav Gupta, Daniel Huber, Rahul Sukthankar, Cordelia Schmid",
+      "D-Index": 111,
+      "Citations": 49057,
+      "#DBLP": 466,
+      "World Rank": 125,
+      "National Rank": 79,
+      "val": 0.38
+    },
+    {
+      "name": "David E. Goldberg",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Machine learning ,Genetic algorithm ",
+      "image": "https://s.research.com/images/b88cb579d3df346f3709774b80171ea1e42d402b-48x48.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Martin Pelikan, Martin V. Butz, Kalyanmoy Deb, Pier Luca Lanzi, Barbara S. Minsker, Erick Cant¨²-Paz, Stewart W. Wilson, Patrick M. Reed, Dirk Thierens",
+      "D-Index": 110,
+      "Citations": 291238,
+      "#DBLP": 459,
+      "World Rank": 126,
+      "National Rank": 80,
+      "val": 0.38
+    },
+    {
+      "name": "Alan C. Bovik",
+      "country": "United States",
+      "School": "The University of Texas at Austin",
+      "Famous": "Artificial intelligence ,Video quality ,Image quality ",
+      "image": "https://s.research.com/images/b6ac1e156abdb1a53f6f57eb3e9d5105a1c3076a-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Lawrence K. Cormack, Sanghoon Lee, Zhou Wang, Robert W. Heath, Brian L. Evans, Wilson S. Geisler, Scott T. Acton, Petros Maragos, Joydeep Ghosh, Jake K. Aggarwal",
+      "D-Index": 109,
+      "Citations": 122984,
+      "#DBLP": 809,
+      "World Rank": 136,
+      "National Rank": 85,
+      "val": 0.38
+    },
+    {
+      "name": "Judea Pearl",
+      "country": "Los Angeles",
+      "School": "University of California",
+      "Famous": "Causal inference ,Artificial intelligence ,Causal model ",
+      "image": "https://s.research.com/images/5cac503a908840abcc33462db6d7fc80245cd3aa-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Dan Geiger, Moises Goldszmidt, Joseph Y. Halpern, Adnan Darwiche, James M. Robins, Hector Geffner, Sander Greenland, Simon Kasif, David Maxwell Chickering",
+      "D-Index": 108,
+      "Citations": 99621,
+      "#DBLP": 400,
+      "World Rank": 146,
+      "National Rank": 93,
+      "val": 0.38
+    },
+    {
+      "name": "Bing Liu",
+      "country": "United States",
+      "School": "University of Illinois at Chicago",
+      "Famous": "Artificial intelligence ,Task ,Sentiment analysis ",
+      "image": "https://s.research.com/images/da2474ac2e9c41097a9a2bcfe7eb156922a4ca71-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Philip S. Yu, Lei Shu, Wynne Hsu, Xiaoli Li, Ivet Bahar, P. S. Thiagarajan, Meichun Hsu, Wee Sun Lee, Tianrui Li, Edmund M. Clarke",
+      "D-Index": 108,
+      "Citations": 71228,
+      "#DBLP": 405,
+      "World Rank": 147,
+      "National Rank": 94,
+      "val": 0.38
+    },
+    {
+      "name": "Guillermo Sapiro",
+      "country": "United States",
+      "School": "Duke University",
+      "Famous": "Artificial intelligence ,Algorithm ,Pattern recognition ",
+      "image": "https://s.research.com/images/554c13ec83de1de520620fd3c5cc0244af34f720-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Alexander M. Bronstein, Paul M. Thompson, Vicent Caselles, Allen Tannenbaum, Lawrence Carin, Marcelo Bertalm¨ªo, Geraldine Dawson, Sriram Subramaniam, Raja Giryes, Julien Mairal",
+      "D-Index": 107,
+      "Citations": 76061,
+      "#DBLP": 596,
+      "World Rank": 151,
+      "National Rank": 96,
+      "val": 0.38
+    },
+    {
+      "name": "Joshua B. Tenenbaum",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Object ,Machine learning ",
+      "image": "https://s.research.com/images/f75eb285821c889d8a09edc87685468ff522af1f-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Noah D. Goodman, Thomas L. Griffiths, William T. Freeman, Antonio Torralba, Laura Schulz, Samuel J. Gershman, Michael C. Frank, Peter W. Battaglia, Nancy Kanwisher",
+      "D-Index": 106,
+      "Citations": 68729,
+      "#DBLP": 484,
+      "World Rank": 159,
+      "National Rank": 100,
+      "val": 0.38
+    },
+    {
+      "name": "Rosalind W. Picard",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Machine learning ,Wearable computer ",
+      "image": "https://s.research.com/images/06a2bbcc1a9c6a86d48d36572bfc18146f622aca-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Cynthia Breazeal, Ashish Kapoor, Tobias Loddenkemper, Charles A. Czeisler, Tom Minka, Alex Pentland, Bj?rn Schuller, Timothy Bickmore, Henry Lieberman",
+      "D-Index": 105,
+      "Citations": 59048,
+      "#DBLP": 385,
+      "World Rank": 167,
+      "National Rank": 106,
+      "val": 0.38
+    },
+    {
+      "name": "Pietro Perona",
+      "country": "United States",
+      "School": "California Institute of Technology",
+      "Famous": "Artificial intelligence ,Machine learning ,Computer vision ",
+      "image": "https://s.research.com/images/5fa39f35eb304be36a03617dcfa6d9686690cd17-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Serge Belongie, Stefano Soatto, David J. Anderson, Christof Koch, Piotr Dollar, Andrew Zisserman, Rob Fergus, Max Welling, Jitendra Malik, Silvio Savarese",
+      "D-Index": 103,
+      "Citations": 109935,
+      "#DBLP": 379,
+      "World Rank": 175,
+      "National Rank": 109,
+      "val": 0.38
+    },
+    {
+      "name": "Jason Weston",
+      "country": "United States",
+      "School": "Facebook (United States)",
+      "Famous": "Artificial intelligence ,Human¨Ccomputer interaction ,Conversation ",
+      "image": "https://s.research.com/images/435a4f74f7d8bf83330a8fb29821b947449b692e-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ronan Collobert, Bernhard Sch?lkopf, Sumit Chopra, William Stafford Noble, Douwe Kiela, Isabelle Guyon, Arthur Szlam, L¨¦on Bottou, Olivier Chapelle",
+      "D-Index": 103,
+      "Citations": 89073,
+      "#DBLP": 260,
+      "World Rank": 176,
+      "National Rank": 110,
+      "val": 0.38
+    },
+    {
+      "name": "Vipin Kumar",
+      "country": "United States",
+      "School": "University of Minnesota",
+      "Famous": "Artificial intelligence ,Machine learning ,Data science ",
+      "image": "https://s.research.com/images/11601ff87b746251156c9859e25be5d18ac063a7-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Michael Steinbach, George Karypis, Pang-Ning Tan, Shashi Shekhar, Nagiza F. Samatova, Ananth Grama, Jaideep Srivastava, Hui Xiong, Arindam Banerjee, David Taniar",
+      "D-Index": 103,
+      "Citations": 77969,
+      "#DBLP": 583,
+      "World Rank": 177,
+      "National Rank": 111,
+      "val": 0.38
+    },
+    {
+      "name": "Ruslan Salakhutdinov",
+      "country": "United States",
+      "School": "Carnegie Mellon University",
+      "Famous": "Artificial intelligence ,Machine learning ,Reinforcement learning ",
+      "image": "https://s.research.com/images/30f762f92e305fe92f44d1ea278715e33796c22a-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Eric P. Xing, Louis-Philippe Morency, Geoffrey E. Hinton, Zhiting Hu, Nathan Srebro, Barnab¨¢s P¨®czos, Joshua B. Tenenbaum, Roger Grosse, Antonio Torralba",
+      "D-Index": 101,
+      "Citations": 125936,
+      "#DBLP": 327,
+      "World Rank": 193,
+      "National Rank": 119,
+      "val": 0.38
+    },
+    {
+      "name": "Martin J. Wainwright",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Algorithm ,Applied mathematics ,Combinatorics ",
+      "image": "https://s.research.com/images/097903bf9951014c4e54d722d5e75d3e3fd5e95f-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Bin Yu, John C. Duchi, Alan S. Willsky, Steffen L. Lauritzen, Mathias Drton, Alekh Agarwal, Peter L. Bartlett, Kannan Ramchandran, Alexandros G. Dimakis",
+      "D-Index": 101,
+      "Citations": 50841,
+      "#DBLP": 315,
+      "World Rank": 197,
+      "National Rank": 122,
+      "val": 0.38
+    },
+    {
+      "name": "Eric P. Xing",
+      "country": "United States",
+      "School": "Carnegie Mellon University",
+      "Famous": "Artificial intelligence ,Machine learning ,Deep learning ",
+      "image": "https://s.research.com/images/c11eba4ce1ff83b0cd53c8d881c004726127d68f-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Zhiting Hu, Jun Zhu, Ruslan Salakhutdinov, Amr Ahmed, Noah A. Smith, Barnab¨¢s P¨®czos, Le Song, Jeff Schneider, Michael I. Jordan",
+      "D-Index": 101,
+      "Citations": 40118,
+      "#DBLP": 591,
+      "World Rank": 204,
+      "National Rank": 126,
+      "val": 0.38
+    },
+    {
+      "name": "Samy Bengio",
+      "country": "United States",
+      "School": "Google (United States)",
+      "Famous": "Artificial intelligence ,Deep learning ,Machine learning ",
+      "image": "https://s.research.com/images/300089bc5270968eee38e6f49c028de19ee5a52b-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Norman Poh, Conrad Sanderson, Daniel Gatica-Perez, Oriol Vinyals, Yoram Singer, Gal Chechik, Mohammad Norouzi, David Grangier, Iain A. McCowan",
+      "D-Index": 99,
+      "Citations": 55262,
+      "#DBLP": 378,
+      "World Rank": 220,
+      "National Rank": 137,
+      "val": 0.38
+    },
+    {
+      "name": "David M. Blei",
+      "country": "United States",
+      "School": "Columbia University",
+      "Famous": "Artificial intelligence ,Inference ,Machine learning ",
+      "image": "https://s.research.com/images/235ed9a9ab087fd7bab10f12b720ce9789fd7f8f-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Stephen E. Fienberg, Dustin Tran, Michael I. Jordan, John Paisley, Matthew D. Hoffman, Eric P. Xing, Jordan Boyd-Graber, Susan Athey, Samuel J. Gershman",
+      "D-Index": 98,
+      "Citations": 103251,
+      "#DBLP": 282,
+      "World Rank": 228,
+      "National Rank": 143,
+      "val": 0.38
+    },
+    {
+      "name": "Dimitris N. Metaxas",
+      "country": "The State University of New Jersey",
+      "School": "Rutgers",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Segmentation ",
+      "image": "https://s.research.com/images/31554b2ea06e37b7455e37051d5bdeba9541b0c5-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Shaoting Zhang, Junzhou Huang, Xiaolei Huang, Xi Peng, Qingshan Liu, Vladimir Pavlovic, Norman I. Badler, Cristian Sminchisescu, Judee K. Burgoon, Ioannis A. Kakadiaris",
+      "D-Index": 98,
+      "Citations": 37745,
+      "#DBLP": 702,
+      "World Rank": 235,
+      "National Rank": 146,
+      "val": 0.38
+    },
+    {
+      "name": "Yoshua Bengio",
+      "country": "Canada",
+      "School": "University of Montreal",
+      "Famous": "Artificial intelligence ,Machine learning ,Artificial neural network ",
+      "image": "https://s.research.com/images/aec914cd458a74e2b4545dd0746dd22e6bc2382c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Aaron Courville, Kyunghyun Cho, Pascal Vincent, Caglar Gulcehre, Razvan Pascanu, Chris Pal, Hugo Larochelle, Ian Goodfellow, Joelle Pineau, Yann N. Dauphin",
+      "D-Index": 200,
+      "Citations": 491250,
+      "#DBLP": 909,
+      "World Rank": 2,
+      "National Rank": 1,
+      "val": 3.39
+    },
+    {
+      "name": "Aaron Courville",
+      "country": "Canada",
+      "School": "University of Montreal",
+      "Famous": "Artificial intelligence ,Generalization ,Natural language processing ",
+      "image": "https://s.research.com/images/ba1916a4e87341724abd090ec97b66c8ea1acd3b-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Chris Pal, Ian Goodfellow, Joelle Pineau, Hugo Larochelle, Pascal Vincent, Kyunghyun Cho, Olivier Pietquin, Caglar Gulcehre, Yann N. Dauphin",
+      "D-Index": 84,
+      "Citations": 142816,
+      "#DBLP": 228,
+      "World Rank": 473,
+      "National Rank": 21,
+      "val": 3.39
+    },
+    {
+      "name": "Kyunghyun Cho",
+      "country": "United States",
+      "School": "New York University",
+      "Famous": "Artificial intelligence ,Machine learning ,Language model ",
+      "image": "https://s.research.com/images/8cf5b57b5bf2ab9af71aba11d1c9ae8cf17f6001-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jason Weston, Douwe Kiela, Caglar Gulcehre, Aaron Courville, Samuel R. Bowman, Victor O. K. Li, Mark Sandler, Razvan Pascanu, Jimmy Lin",
+      "D-Index": 75,
+      "Citations": 89308,
+      "#DBLP": 285,
+      "World Rank": 813,
+      "National Rank": 488,
+      "val": 2.99
+    },
+    {
+      "name": "Tong Zhang",
+      "country": "China",
+      "School": "Hong Kong University of Science and Technology",
+      "Famous": "Artificial intelligence ,Machine learning ,Artificial neural network ",
+      "image": "https://s.research.com/images/7788f810ff248865329f098c8c4bd44dc3fbe4e5-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wei Liu, Han Liu, Sham M. Kakade, Ping Li, John Langford, Ji Liu, Shuming Shi, Peilin Zhao, Shai Shalev-Shwartz",
+      "D-Index": 101,
+      "Citations": 41996,
+      "#DBLP": 434,
+      "World Rank": 203,
+      "National Rank": 20,
+      "val": 0.75
+    },
+    {
+      "name": "Lawrence Carin",
+      "country": "Saudi Arabia",
+      "School": "King Abdullah University of Science and Technology",
+      "Famous": "Artificial intelligence ,Machine learning ,Artificial neural network ",
+      "image": "https://s.research.com/images/256c2c73fcc666a0e08ad1d13fa5dc9ed9c64457-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "David B. Dunson, Xin Yuan, Chunyuan Li, David J. Brady, Liqun Chen, Guillermo Sapiro, John Paisley, Leslie M. Collins, Geoffrey S. Ginsburg",
+      "D-Index": 88,
+      "Citations": 30602,
+      "#DBLP": 782,
+      "World Rank": 399,
+      "National Rank": 2,
+      "val": 0.75
+    },
+    {
+      "name": "Dieu Tien Bui",
+      "country": "United States",
+      "School": "Sewanee: The University of the South",
+      "Famous": "Artificial intelligence ,Machine learning ,Artificial neural network ",
+      "image": "https://s.research.com/images/7b618420eaf53c4d713b44e76f1d91ebf2e3d410-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Nhat-Duc Hoang, Himan Shahabi, Ataollah Shirzadi, Hossein Moayedi, Haoyuan Hong, Omid Rahmati, Baharin Bin Ahmad, Saro Lee, Pijush Samui",
+      "D-Index": 83,
+      "Citations": 20776,
+      "#DBLP": 240,
+      "World Rank": 528,
+      "National Rank": 306,
+      "val": 0.75
+    },
+    {
+      "name": "Francisco Herrera",
+      "country": "Spain",
+      "School": "University of Granada",
+      "Famous": "Artificial intelligence ,Machine learning ,Big data ",
+      "image": "https://s.research.com/images/900c497d066eeefc67149348271940e50a48fc32-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Enrique Herrera-Viedma, Alberto Fern¨¢ndez, Oscar Cord¨®n, Salvador Garc¨ªa, Luis Mart¨ªnez, Francisco Chiclana, Manuel Lozano, Jos¨¦ Manuel Ben¨ªtez, Huchang Liao, Chris Cornelis",
+      "D-Index": 161,
+      "Citations": 111307,
+      "#DBLP": 1008,
+      "World Rank": 9,
+      "National Rank": 1,
+      "val": 0.63
+    },
+    {
+      "name": "Geoffrey E. Hinton",
+      "country": "Canada",
+      "School": "University of Toronto",
+      "Famous": "Artificial intelligence ,Artificial neural network ,Pattern recognition ",
+      "image": "https://s.research.com/images/3a5831dd52ce7c8706f5bc6fb2738d6b72d2f0c2-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ruslan Salakhutdinov, Ilya Sutskever, Terrence J. Sejnowski, Max Welling, Richard S. Zemel, Zoubin Ghahramani, Abdel-rahman Mohamed, Yee Whye Teh, Peter Dayan, Navdeep Jaitly",
+      "D-Index": 153,
+      "Citations": 443047,
+      "#DBLP": 369,
+      "World Rank": 13,
+      "National Rank": 2,
+      "val": 0.63
+    },
+    {
+      "name": "Dacheng Tao",
+      "country": "Australia",
+      "School": "University of Sydney",
+      "Famous": "Artificial intelligence ,Machine learning ,Pattern recognition ",
+      "image": "https://s.research.com/images/72330d26d0dcc91579ea36cf44d4e93f0e4383c6-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Xuelong Li, Xinbo Gao, Tongliang Liu, Chang Xu, Jun Yu, Mingli Song, Lefei Zhang, Cheng Deng, Bo Du, Xinchao Wang",
+      "D-Index": 142,
+      "Citations": 74454,
+      "#DBLP": 1217,
+      "World Rank": 24,
+      "National Rank": 2,
+      "val": 0.63
+    },
+    {
+      "name": "Qiang Yang",
+      "country": "China",
+      "School": "Hong Kong University of Science and Technology",
+      "Famous": "Artificial intelligence ,Machine learning ,Transfer of learning ",
+      "image": "https://s.research.com/images/6856b85aba961817f0eece572a5e7feb8c189c00-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Zheng Chen, Yu Zhang, Sinno Jialin Pan, Han Yu, Yong Yu, Yanlin Song, Vincent W. Zheng, Jian-Tao Sun, Gui-Rong Xue, Jie Yin",
+      "D-Index": 126,
+      "Citations": 87945,
+      "#DBLP": 1078,
+      "World Rank": 60,
+      "National Rank": 7,
+      "val": 0.63
+    },
+    {
+      "name": "Witold Pedrycz",
+      "country": "Canada",
+      "School": "University of Alberta",
+      "Famous": "Fuzzy logic ,Artificial intelligence ,Data mining ",
+      "image": "https://s.research.com/images/8f26754a6e28c7d64ac0734a09fddc5e4185a076-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Sung-Kwun Oh, Zhiwu Li, Kaoru Hirota, Xiaodong Liu, Krzysztof J. Cios, Giancarlo Succi, Fernando Gomide, Lukasz Kurgan, Athanasios V. Vasilakos, Patricia Melin",
+      "D-Index": 123,
+      "Citations": 76187,
+      "#DBLP": 1873,
+      "World Rank": 71,
+      "National Rank": 5,
+      "val": 0.63
+    },
+    {
+      "name": "Zhi-Hua Zhou",
+      "country": "China",
+      "School": "Nanjing University",
+      "Famous": "Artificial intelligence ,Machine learning ,Mathematical optimization ",
+      "image": "https://s.research.com/images/135fd024216cbc9ba13b9dce6db19bb84b0525f4-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Rong Jin, Songcan Chen, Jianxin Wu, Min-Ling Zhang, Tianbao Yang, Kai Ming Ting, Xin Geng, Daoqiang Zhang, Ke Tang, James T. Kwok",
+      "D-Index": 114,
+      "Citations": 67534,
+      "#DBLP": 626,
+      "World Rank": 105,
+      "National Rank": 12,
+      "val": 0.63
+    },
+    {
+      "name": "Zoubin Ghahramani",
+      "country": "United Kingdom",
+      "School": "University of Cambridge",
+      "Famous": "Artificial intelligence ,Machine learning ,Inference ",
+      "image": "https://s.research.com/images/3692f85465d385b7c66ee472ff9a5f0938184e29-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Katherine A. Heller, Michael I. Jordan, Richard E. Turner, Jos¨¦ Miguel Hern¨¢ndez-Lobato, Daniel M. Wolpert, Ryan P. Adams, Yarin Gal, Geoffrey E. Hinton, Carl Edward Rasmussen, David Duvenaud",
+      "D-Index": 113,
+      "Citations": 69788,
+      "#DBLP": 411,
+      "World Rank": 110,
+      "National Rank": 4,
+      "val": 0.63
+    },
+    {
+      "name": "Thomas L. Griffiths",
+      "country": "United States",
+      "School": "Princeton University",
+      "Famous": "Artificial intelligence ,Machine learning ,Bayesian inference ",
+      "image": "https://s.research.com/images/1cf3f17c850992571511b0eea9587d023a4788af-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Alison Gopnik, Noah D. Goodman, Mark Steyvers, Sharon Goldwater, Fei Xu, Anca D. Dragan, Jonathan D. Cohen, Mark Johnson, Stephan Lewandowsky",
+      "D-Index": 92,
+      "Citations": 45028,
+      "#DBLP": 430,
+      "World Rank": 319,
+      "National Rank": 194,
+      "val": 0.63
+    },
+    {
+      "name": "ChengXiang Zhai",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Information retrieval ,Machine learning ",
+      "image": "https://s.research.com/images/a42c7d144c7fe8aefcf83a4ca71f47f8067875a0-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Qiaozhu Mei, Jing Jiang, Xuanhui Wang, John Lafferty, Dan Roth, Yi Chang, Tie-Yan Liu, James Allan, Dolores Albarrac¨ªn",
+      "D-Index": 90,
+      "Citations": 37399,
+      "#DBLP": 445,
+      "World Rank": 357,
+      "National Rank": 215,
+      "val": 0.63
+    },
+    {
+      "name": "Quoc V. Le",
+      "country": "United States",
+      "School": "Google (United States)",
+      "Famous": "Artificial intelligence ,Language model ,Artificial neural network ",
+      "image": "https://s.research.com/images/c16e1b1c868e6d3f4478d1d11a60ea4d15133db1-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Alexander J. Smola, Andrew Y. Ng, Ilya Sutskever, Vijay K. Vasudevan, Navdeep Jaitly, Samy Bengio, Oriol Vinyals, Greg Corrado, Mohammad Norouzi",
+      "D-Index": 89,
+      "Citations": 94733,
+      "#DBLP": 174,
+      "World Rank": 366,
+      "National Rank": 221,
+      "val": 0.63
+    },
+    {
+      "name": "Inderjit S. Dhillon",
+      "country": "United States",
+      "School": "The University of Texas at Austin",
+      "Famous": "Algorithm ,Artificial intelligence ,Machine learning ",
+      "image": "https://s.research.com/images/e855913768684274c65a6f942ebb2f32a39ab634-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Pradeep Ravikumar, Prateek Jain, Suvrit Sra, Brian Kulis, Ambuj Tewari, Joel A. Tropp, Arindam Banerjee, James Demmel, Joydeep Ghosh",
+      "D-Index": 87,
+      "Citations": 40864,
+      "#DBLP": 288,
+      "World Rank": 409,
+      "National Rank": 244,
+      "val": 0.63
+    },
+    {
+      "name": "Tommi S. Jaakkola",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Theoretical computer science ,Artificial intelligence ,Machine learning ",
+      "image": "https://s.research.com/images/0d14e00f9adde761f474a84fc54efe74048a26d8-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "David K. Gifford, Michael I. Jordan, Amir Globerson, Alan S. Willsky, Martin J. Wainwright, David Sontag, Shiyu Chang, Klavs F. Jensen, Nathan Srebro",
+      "D-Index": 87,
+      "Citations": 36600,
+      "#DBLP": 254,
+      "World Rank": 412,
+      "National Rank": 246,
+      "val": 0.63
+    },
+    {
+      "name": "Robert Nowak",
+      "country": "United States",
+      "School": "University of WisconsinâMadison",
+      "Famous": "Algorithm ,Artificial intelligence ,Artificial neural network ",
+      "image": "https://s.research.com/images/76ee3029f9d8e69514a88ef66b88e174ae60d53d-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Rebecca Willett, M¨¢rio A. T. Figueiredo, Michael Rabbat, Mark Coates, Xiaojin Zhu, Paul Barford, Aarti Singh, B.D. Van Veen, Benjamin Recht",
+      "D-Index": 87,
+      "Citations": 35329,
+      "#DBLP": 356,
+      "World Rank": 414,
+      "National Rank": 247,
+      "val": 0.63
+    },
+    {
+      "name": "Andreas Krause",
+      "country": "Switzerland",
+      "School": "ETH Zurich",
+      "Famous": "Mathematical optimization ,Artificial intelligence ,Machine learning ",
+      "image": "https://s.research.com/images/ac4cd6543571aa015acfcc562bf61edf343a5c0e-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Joachim M. Buhmann, Stefanie Jegelka, Eric Horvitz, Jure Leskovec, Volkan Cevher, Anupam Gupta, Joel W. Burdick, Donald Kossmann, Krishna P. Gummadi",
+      "D-Index": 86,
+      "Citations": 31686,
+      "#DBLP": 333,
+      "World Rank": 440,
+      "National Rank": 18,
+      "val": 0.63
+    },
+    {
+      "name": "John Platt",
+      "country": "United States",
+      "School": "Google (United States)",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Machine learning ",
+      "image": "https://s.research.com/images/be86b2da11e424932555472a633e802895cd708b-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Thomas Hofmann, Christopher J. C. Burges, Eric Horvitz, Oliver Hurst-Hiller, Jonathan Goldstein, Gary W. Flake, Robert L. Rounthwaite, William H. Gates, Li Deng",
+      "D-Index": 85,
+      "Citations": 72292,
+      "#DBLP": 415,
+      "World Rank": 451,
+      "National Rank": 264,
+      "val": 0.63
+    },
+    {
+      "name": "Michael L. Littman",
+      "country": "United States",
+      "School": "Brown University",
+      "Famous": "Reinforcement learning ,Artificial intelligence ,Machine learning ",
+      "image": "https://s.research.com/images/d83b7ec5f71ce2018fc8ce73206b8e5d3a287814-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Leslie Pack Kaelbling, Peter Stone, Matthew E. Taylor, Satinder Singh, George Konidaris, Thomas K. Landauer, Peter D. Turney, Fiery Cushman, Thomas L. Griffiths",
+      "D-Index": 83,
+      "Citations": 46182,
+      "#DBLP": 303,
+      "World Rank": 504,
+      "National Rank": 294,
+      "val": 0.63
+    },
+    {
+      "name": "Carlos Guestrin",
+      "country": "United States",
+      "School": "University of Washington",
+      "Famous": "Artificial intelligence ,Deep learning ,Machine learning ",
+      "image": "https://s.research.com/images/53f38a34844637a9d67ff9f514bb58b6223a1db2-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Sameer Singh, Joseph E. Gonzalez, Joseph M. Hellerstein, Jure Leskovec, Daphne Koller, Arvind Krishnamurthy, Luis Ceze, Amol Deshpande, Eric Horvitz",
+      "D-Index": 80,
+      "Citations": 58490,
+      "#DBLP": 190,
+      "World Rank": 607,
+      "National Rank": 352,
+      "val": 0.63
+    },
+    {
+      "name": "Jiashi Feng",
+      "country": "China",
+      "School": "ByteDance",
+      "Famous": "Artificial intelligence ,Machine learning ,Pattern recognition ",
+      "image": "https://s.research.com/images/a17e4fbdcff560acfd867ac892010214d16d6028-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Yunchao Wei, Xiaodan Liang, Zhouchen Lin, Xiaohui Shen, Huan Xu, Thomas S. Huang, Jianchao Yang, Junliang Xing, Wei Liu",
+      "D-Index": 80,
+      "Citations": 21963,
+      "#DBLP": 355,
+      "World Rank": 640,
+      "National Rank": 51,
+      "val": 0.63
+    },
+    {
+      "name": "Kwok-wing Chau",
+      "country": "China",
+      "School": "Hong Kong Polytechnic University",
+      "Famous": "Artificial neural network ,Artificial intelligence ,Adaptive neuro fuzzy inference system ",
+      "image": "https://s.research.com/images/f05bad7170d1debabb7c08d39e43ec8b557670c7-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Amir Mosavi, Chuntian Cheng, Mohammad Hossein Ahmadi, Nadhir Al-Ansari, Zaher Mundher Yaseen, Shahin Rafiee, Shamsuddin Shahid, Timon Rabczuk, Ravinesh C. Deo",
+      "D-Index": 79,
+      "Citations": 20511,
+      "#DBLP": 276,
+      "World Rank": 678,
+      "National Rank": 54,
+      "val": 0.63
+    },
+    {
+      "name": "Thomas G. Dietterich",
+      "country": "United States",
+      "School": "Oregon State University",
+      "Famous": "Artificial intelligence ,Anomaly detection ,Machine learning ",
+      "image": "https://s.research.com/images/3677b885b9f779608f1d9264a7952b0e564fc39f-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Prasad Tadepalli, Weng-Keen Wong, Linda G. Shapiro, Lise Getoor, Stephen Muggleton, David A. Lytle, Sinisa Todorovic, Luc De Raedt, Ryszard S. Michalski",
+      "D-Index": 78,
+      "Citations": 48690,
+      "#DBLP": 276,
+      "World Rank": 685,
+      "National Rank": 404,
+      "val": 0.63
+    },
+    {
+      "name": "Jiawei Han",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Natural language processing ,Embedding ",
+      "image": "https://s.research.com/images/42382fdef4ef0953a4202224c4091830bc68678c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Xifeng Yan, Xiang Ren, Philip S. Yu, Yizhou Sun, Jing Gao, Jian Pei, Chao Zhang, Deng Cai, Heng Ji, Xiaofei He",
+      "D-Index": 186,
+      "Citations": 209445,
+      "#DBLP": 1177,
+      "World Rank": 3,
+      "National Rank": 2,
+      "val": 5.880929754
+    },
+    {
+      "name": "Jian Pei",
+      "country": "Canada",
+      "School": "Simon Fraser University",
+      "Famous": "Theoretical computer science ,Artificial intelligence ,Set ",
+      "image": "https://s.research.com/images/63a4c46332c6e0eda34df6f8bd779f5fdd394716-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jiawei Han, Ke Wang, Daxin Jiang, Xuemin Lin, Ada Wai-Chee Fu, Guozhu Dong, Philip S. Yu, Enhong Chen, Yufei Tao, James Bailey",
+      "D-Index": 95,
+      "Citations": 56331,
+      "#DBLP": 461,
+      "World Rank": 268,
+      "National Rank": 11,
+      "val": 4.992789261
+    },
+    {
+      "name": "Deng Cai",
+      "country": "China",
+      "School": "Zhejiang University",
+      "Famous": "Artificial intelligence ,Artificial neural network ,Object detection ",
+      "image": "https://s.research.com/images/75a264844465e9482cf031ed79e06ebe56baa625-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jiawei Han, Jiajun Bu, Chun Chen, Haifeng Liu, Wei-Ying Ma, Yueting Zhuang, Zhou Zhao, Ji-Rong Wen, Xuelong Li",
+      "D-Index": 74,
+      "Citations": 29297,
+      "#DBLP": 291,
+      "World Rank": 879,
+      "National Rank": 75,
+      "val": 3.236859507
+    },
+    {
+      "name": "Philip S. Yu",
+      "country": "United States",
+      "School": "University of Illinois at Chicago",
+      "Famous": "Artificial intelligence ,Machine learning ,Graph ",
+      "image": "https://s.research.com/images/20815a3765631eb9620ba3a4727f1207b14c0e68-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Charu C. Aggarwal, Ming-Syan Chen, Kun-Lung Wu, Joel L. Wolf, Wei Fan, Jiawei Han, Haixun Wang, Chuan Shi, Longbing Cao, Jianmin Wang",
+      "D-Index": 166,
+      "Citations": 131899,
+      "#DBLP": 1814,
+      "World Rank": 6,
+      "National Rank": 4,
+      "val": 2.505929754
+    },
+    {
+      "name": "Xiaofei He",
+      "country": "China",
+      "School": "Zhejiang University",
+      "Famous": "Artificial intelligence ,Machine learning ,Natural language processing ",
+      "image": "https://s.research.com/images/b0f4572f8165a607bd8e2abc02efa16b79bcc8f9-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jiawei Han, Jiajun Bu, Chun Chen, Yueting Zhuang, Zhou Zhao, Wei-Ying Ma, Hong-Jiang Zhang, Ji-Rong Wen, Jieping Ye",
+      "D-Index": 74,
+      "Citations": 35835,
+      "#DBLP": 240,
+      "World Rank": 870,
+      "National Rank": 73,
+      "val": 2.230929754
+    },
+    {
+      "name": "Jimeng Sun",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Deep learning ,Machine learning ",
+      "image": "https://s.research.com/images/dc0d7c1e3be2fa5aa5d1a206082cd4b403fcc838-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Spiros Papadimitriou, Bradley A. Malin, Walter F. Stewart, Robert Chen, M. Brandon Westover, Richard Vuduc, Philip S. Yu, Jie Tang, Chao Zhang",
+      "D-Index": 76,
+      "Citations": 21380,
+      "#DBLP": 324,
+      "World Rank": 807,
+      "National Rank": 484,
+      "val": 1.625
+    },
+    {
+      "name": "David Forsyth",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Image ,Computer vision ",
+      "image": "https://s.research.com/images/bb0ff8e1472d8d7a0b79445a2a3112854eea681c-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Joseph L. Mundy, Derek Hoiem, Ali Farhadi, Kobus Barnard, Gang Wang, Tamara L. Berg, Jean Ponce, Deva Ramanan, Jitendra Malik",
+      "D-Index": 81,
+      "Citations": 37517,
+      "#DBLP": 304,
+      "World Rank": 571,
+      "National Rank": 331,
+      "val": 1.5
+    },
+    {
+      "name": "Narendra Ahuja",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/7cb4a4b6afe6cf71599a59b6f25ce052439b8b87-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Bernard Ghanem, Thomas S. Huang, Juyang Weng, Jia-Bin Huang, Sinisa Todorovic, Qingxiong Yang, Tianzhu Zhang, Hong Hua, Arun Krishnan",
+      "D-Index": 81,
+      "Citations": 36824,
+      "#DBLP": 468,
+      "World Rank": 572,
+      "National Rank": 332,
+      "val": 1.5
+    },
+    {
+      "name": "Wen-mei W. Hwu",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Field-programmable gate array ,Deep learning ",
+      "image": "https://s.research.com/images/9e60f735a7b9fe20828eed95d47dbabec0e601ef-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Scott Mahlke, Yale N. Patt, Thomas M. Conte, David I. August, Sanjay J. Patel, Zhi-Pei Liang, Weng Cho Chew, Rakesh Nagi, Nam Sung Kim",
+      "D-Index": 78,
+      "Citations": 25735,
+      "#DBLP": 494,
+      "World Rank": 705,
+      "National Rank": 418,
+      "val": 1.375
+    },
+    {
+      "name": "Roy H. Campbell",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Artificial intelligence ,Distributed computing ,Cloud computing ",
+      "image": "https://s.research.com/images/f8d9d05dacdca03b445b1f7606c9bf27968a186c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Klara Nahrstedt, Indranil Gupta, Ludmila Cherkasova, Apu Kapadia, Yi Lu, Mike A. Nalls, Dumitru Erhan, Chelsea Finn, Sonja W. Scholz",
+      "D-Index": 78,
+      "Citations": 23787,
+      "#DBLP": 482,
+      "World Rank": 711,
+      "National Rank": 422,
+      "val": 1.375
+    },
+    {
+      "name": "Tarek Abdelzaher",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Wireless sensor network ,Distributed computing ,Computer network ",
+      "image": "https://s.research.com/images/efaf3dfeaa70c87c7a67d419616cb246aa169eb8-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "John A. Stankovic, Lance Kaplan, Lu Su, Tian He, Qing Cao, Jiawei Han, Chenyang Lu, Ramesh Govindan, Amotz Bar-Noy, Sang H. Son",
+      "D-Index": 93,
+      "Citations": 35167,
+      "#DBLP": 532,
+      "World Rank": 310,
+      "National Rank": 189,
+      "val": 1.25
+    },
+    {
+      "name": "Klara Nahrstedt",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Computer security ,Multimedia ,Computer network ",
+      "image": "https://s.research.com/images/184bff884eb62e8d162ab92820d7c36d475cf3a4-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Dongyan Xu, Indranil Gupta, Baochun Li, Ralf Steinmetz, Xiaohui Gu, Shigang Chen, Ruzena Bajcsy, Lu Su, Jonathan M. Smith",
+      "D-Index": 89,
+      "Citations": 30824,
+      "#DBLP": 688,
+      "World Rank": 386,
+      "National Rank": 229,
+      "val": 1.25
+    },
+    {
+      "name": "William Gropp",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Parallel computing ,Distributed computing ,Scalability ",
+      "image": "https://s.research.com/images/9645b9817cb5002fc594c93edb26be36819a425f-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ewing Lusk, David E. Keyes, Pavan Balaji, Torsten Hoefler, Robert Ross, Marc Snir, Martin Schulz, Alok Choudhary, Robert M. Kirby",
+      "D-Index": 82,
+      "Citations": 41165,
+      "#DBLP": 461,
+      "World Rank": 534,
+      "National Rank": 310,
+      "val": 1.25
+    },
+    {
+      "name": "R. Srikant",
+      "country": "United States",
+      "School": "University of Illinois at Urbana-Champaign",
+      "Famous": "Mathematical optimization ,Function ,Artificial neural network ",
+      "image": "https://s.research.com/images/f1869c169a9970606362b3336420123b69ab5eb1-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Tamer Basar, Atilla Eryilmaz, Sanjay Shakkottai, Geir E. Dullerud, Xinzhou Wu, Eitan Altman, Alexander L. Stolyar, Ness B. Shroff, Bruce Hajek",
+      "D-Index": 76,
+      "Citations": 26986,
+      "#DBLP": 357,
+      "World Rank": 786,
+      "National Rank": 470,
+      "val": 1.25
+    },
+    {
+      "name": "Andrew McCallum",
+      "country": "United States",
+      "School": "University of Massachusetts Amherst",
+      "Famous": "Artificial intelligence ,Natural language processing ,Information retrieval ",
+      "image": "https://s.research.com/images/3012a4308c56231e37d3b1757d3cdcb7ff6b87b3-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Charles Sutton, Sebastian Riedel, Sameer Singh, David Mimno, Chris Pal, Fernando Pereira, Tom M. Mitchell, Kevin Huang, Olfa Nasraoui, Myra Spiliopoulou",
+      "D-Index": 111,
+      "Citations": 85427,
+      "#DBLP": 399,
+      "World Rank": 121,
+      "National Rank": 76,
+      "val": 0.625
+    },
+    {
+      "name": "Li Deng",
+      "country": "United States",
+      "School": "Citadel",
+      "Famous": "Artificial intelligence ,Natural language processing ,Artificial neural network ",
+      "image": "https://s.research.com/images/b0ca6d67e9dc74eaa0cedca734cc959eda345b1d-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Dong Yu, Xiaodong He, Alex Acero, Jianfeng Gao, Alejandro Acero, Yifan Gong, Jasha Droppo, Jinyu Li, Xuedong Huang, Lihong Li",
+      "D-Index": 99,
+      "Citations": 65512,
+      "#DBLP": 589,
+      "World Rank": 218,
+      "National Rank": 135,
+      "val": 0.625
+    },
+    {
+      "name": "Noah A. Smith",
+      "country": "United States",
+      "School": "University of Washington",
+      "Famous": "Artificial intelligence ,Natural language processing ,Language model ",
+      "image": "https://s.research.com/images/8c4c6fe35a6bd0ed464ad5be32c92f148078701c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Kevin Gimpel, Eric P. Xing, Yejin Choi, Dipanjan Das, Pedro MQ Aguiar, M¨¢rio A. T. Figueiredo, Jason Eisner, Jacob Eisenstein, Norman Sadeh",
+      "D-Index": 91,
+      "Citations": 33168,
+      "#DBLP": 364,
+      "World Rank": 347,
+      "National Rank": 206,
+      "val": 0.625
+    },
+    {
+      "name": "Raymond J. Mooney",
+      "country": "United States",
+      "School": "The University of Texas at Austin",
+      "Famous": "Artificial intelligence ,Natural language processing ,Natural language ",
+      "image": "https://s.research.com/images/4d325b300df0bfd67546d31113a47b412c242f75-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Razvan Bunescu, Peter Stone, Katrin Erk, Marcus Rohrbach, Trevor Darrell, Hwee Tou Ng, Edward M. Marcotte, Jude W. Shavlik, Joydeep Ghosh",
+      "D-Index": 90,
+      "Citations": 38001,
+      "#DBLP": 281,
+      "World Rank": 356,
+      "National Rank": 214,
+      "val": 0.625
+    },
+    {
+      "name": "William W. Cohen",
+      "country": "United States",
+      "School": "Google (United States)",
+      "Famous": "Artificial intelligence ,Natural language processing ,Knowledge base ",
+      "image": "https://s.research.com/images/58069b1eb92e9c03ae8e1d8f2905714ac17ed0c3-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ruslan Salakhutdinov, Haym Hirsh, William Yang Wang, Robert F. Murphy, Yoram Singer, Tom M. Mitchell, Eric P. Xing, Partha Pratim Talukdar, Amr Ahmed",
+      "D-Index": 88,
+      "Citations": 38333,
+      "#DBLP": 347,
+      "World Rank": 393,
+      "National Rank": 234,
+      "val": 0.625
+    },
+    {
+      "name": "Dan Roth",
+      "country": "United States",
+      "School": "University of Pennsylvania",
+      "Famous": "Artificial intelligence ,Natural language processing ,Natural language ",
+      "image": "https://s.research.com/images/cbdb94bcdad04c2d10185a5b9dad164cbc129bf3-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wen-tau Yih, Ming-Wei Chang, Kai-Wei Chang, Jiawei Han, Sariel Har-Peled, Ashish Sabharwal, Ido Dagan, ChengXiang Zhai, Heng Ji",
+      "D-Index": 87,
+      "Citations": 29705,
+      "#DBLP": 498,
+      "World Rank": 421,
+      "National Rank": 251,
+      "val": 0.625
+    },
+    {
+      "name": "Tom M. Mitchell",
+      "country": "United States",
+      "School": "Carnegie Mellon University",
+      "Famous": "Artificial intelligence ,Natural language ,Natural language processing ",
+      "image": "https://s.research.com/images/d1b6e1edeef6e8fb672808a0c514c9edd493c979-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Marcel Adam Just, Sebastian Thrun, Christos Faloutsos, Jaime G. Carbonell, Ryszard S. Michalski, Bruce G. Buchanan, Andrew McCallum, Nicholas D. Sidiropoulos, William W. Cohen",
+      "D-Index": 84,
+      "Citations": 55853,
+      "#DBLP": 293,
+      "World Rank": 477,
+      "National Rank": 277,
+      "val": 0.625
+    },
+    {
+      "name": "Jaime G. Carbonell",
+      "country": "United States",
+      "School": "Carnegie Mellon University",
+      "Famous": "Artificial intelligence ,Natural language processing ,Machine learning ",
+      "image": "https://s.research.com/images/ac468eafd027ba12b894aeec233e06432dc99aba-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Judith Klein-Seetharaman, Teruko Mitamura, Alon Lavie, Graham Neubig, Yan Liu, Xi Chen, Eric Nyberg, Stephan Vogel, Bruce M. McLaren",
+      "D-Index": 80,
+      "Citations": 35063,
+      "#DBLP": 463,
+      "World Rank": 617,
+      "National Rank": 362,
+      "val": 0.625
+    },
+    {
+      "name": "Daniel Klein",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Natural language processing ,Natural language ",
+      "image": "https://s.research.com/images/97b156095a8b42b9e703889f71fbe93df31ae7c8-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Markus Klute, Wit Busza",
+      "D-Index": 78,
+      "Citations": 32047,
+      "#DBLP": 220,
+      "World Rank": 695,
+      "National Rank": 410,
+      "val": 0.625
+    },
+    {
+      "name": "James Glass",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Speech recognition ,Natural language processing ",
+      "image": "https://s.research.com/images/b2abe8d1454d7724b4b28b0d346fc4bf2ad1bc42-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Stephanie Seneff, Yonatan Belinkov, Timothy J. Hazen, Preslav Nakov, Najim Dehak, Alessandro Moschitti, Karen Livescu, Llu¨ªs M¨¤rquez, Alberto Barr¨®n-Cede?o",
+      "D-Index": 78,
+      "Citations": 20900,
+      "#DBLP": 440,
+      "World Rank": 718,
+      "National Rank": 425,
+      "val": 0.625
+    },
+    {
+      "name": "Lyle H. Ungar",
+      "country": "United States",
+      "School": "University of Pennsylvania",
+      "Famous": "Social media ,Artificial intelligence ,Natural language processing ",
+      "image": "https://s.research.com/images/79ce992d57f19e3cff27e29141a577054858d9ac-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Margaret L. Kern, David A. Asch, Martin E. P. Seligman, Barbara A. Mellers, Philip E. Tetlock, David Stillwell, Michal Kosinski, David M. Pennock, Robin Pemantle",
+      "D-Index": 76,
+      "Citations": 24227,
+      "#DBLP": 383,
+      "World Rank": 795,
+      "National Rank": 475,
+      "val": 0.625
+    },
+    {
+      "name": "Claire Cardie",
+      "country": "United States",
+      "School": "Cornell University",
+      "Famous": "Artificial intelligence ,Natural language processing ,Task ",
+      "image": "https://s.research.com/images/937d47ce0434970ccd8485716e1cf7eb53c6b2ab-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ellen Riloff, Janyce Wiebe, Vincent Ng, Jiwei Li, Jeffrey T. Hancock, Diane J. Litman, Chris Buckley, Rada Mihalcea, Vittorio Castelli",
+      "D-Index": 75,
+      "Citations": 26013,
+      "#DBLP": 219,
+      "World Rank": 833,
+      "National Rank": 500,
+      "val": 0.625
+    },
+    {
+      "name": "Regina Barzilay",
+      "country": "United States",
+      "School": "MIT",
+      "Famous": "Artificial intelligence ,Machine learning ,Natural language processing ",
+      "image": "https://s.research.com/images/27e526d2e723848affe1afb5de9f608f7dd2291c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Kathleen R. McKeown, Jacob Eisenstein, Klavs F. Jensen, Constance D. Lehman, Vasileios Hatzivassiloglou, Mirella Lapata, Judy Garber, Judith L. Klavans, Amir Globerson",
+      "D-Index": 75,
+      "Citations": 21662,
+      "#DBLP": 233,
+      "World Rank": 842,
+      "National Rank": 506,
+      "val": 0.625
+    },
+    {
+      "name": "Mohammed J. Zaki",
+      "country": "United States",
+      "School": "Rensselaer Polytechnic Institute",
+      "Famous": "Artificial intelligence ,Graph ,Theoretical computer science ",
+      "image": "https://s.research.com/images/390b6c4de52af6b5a437bd7bf3541e7ffc6d8ebd-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Srinivasan Parthasarathy, Mitsunori Ogihara, Bart Goethals, Jason T. L. Wang, Hannu Toivonen, Boleslaw K. Szymanski, Christopher D. Carothers, Vipin Kumar, Marcos Andr¨¦ Gon?alves",
+      "D-Index": 73,
+      "Citations": 32166,
+      "#DBLP": 317,
+      "World Rank": 941,
+      "National Rank": 554,
+      "val": 0.625
+    },
+    {
+      "name": "Richard Socher",
+      "country": "United States",
+      "School": "you.com",
+      "Famous": "Artificial intelligence ,Natural language processing ,Language model ",
+      "image": "https://s.research.com/images/e3b2e4cdaafe7d83c3219706473e6504e7a4698b-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Christopher D. Manning, Andrew Y. Ng, Steven C. H. Hoi, Dragomir R. Radev, Larry S. Davis, Philip S. Yu, Shafiq Joty, Yoshua Bengio, Michael R. Lyu",
+      "D-Index": 72,
+      "Citations": 108582,
+      "#DBLP": 201,
+      "World Rank": 985,
+      "National Rank": 575,
+      "val": 0.625
+    },
+    {
+      "name": "Francis Bach",
+      "country": "France",
+      "School": "Ãcole Normale SupÃ©rieure",
+      "Famous": "Algorithm ,Applied mathematics ,Artificial intelligence ",
+      "image": "https://s.research.com/images/8b8f9a0436d3028ad254de58651f11dd182412cd-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Michael I. Jordan, Julien Mairal, Guillaume Obozinski, Jean-Philippe Vert, Simon Lacoste-Julien, Mark Schmidt, Laurent Massouli¨¦, Bernhard Pfahringer, Alexandre Gramfort",
+      "D-Index": 96,
+      "Citations": 47948,
+      "#DBLP": 365,
+      "World Rank": 258,
+      "National Rank": 5,
+      "val": 3.25
+    },
+    {
+      "name": "Peter L. Bartlett",
+      "country": "United States",
+      "School": "Google (United States)",
+      "Famous": "Mathematical optimization ,Artificial intelligence ,Algorithm ",
+      "image": "https://s.research.com/images/790557d2152fa49e36290343fecd59ced68891f7-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Robert C. Williamson, Alexander J. Smola, Bernhard Sch?lkopf, Martin J. Wainwright, Ambuj Tewari, Alekh Agarwal, Dale Schuurmans, Alexander Rakhlin, Wee Sun Lee",
+      "D-Index": 77,
+      "Citations": 39823,
+      "#DBLP": 324,
+      "World Rank": 731,
+      "National Rank": 433,
+      "val": 2.380929754
+    },
+    {
+      "name": "Lotfi A. Zadeh",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Soft computing ,Fuzzy logic ",
+      "image": "https://s.research.com/images/6f6c133c3e5096255482a1df5dfae052b162d120-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Leszek Rutkowski, Ryszard Tadeusiewicz, Jacek M. Zurada, Janusz Kacprzyk, Leonid Perlovsky, Yingxu Wang, Dionysios D. Dionysiou, Yiyu Yao, Richard Bellman",
+      "D-Index": 93,
+      "Citations": 239363,
+      "#DBLP": 292,
+      "World Rank": 300,
+      "National Rank": 184,
+      "val": 1.75
+    },
+    {
+      "name": "Bin Yu",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Stability ,Machine learning ",
+      "image": "https://s.research.com/images/3e70e25ef6c4f55e91362e4a2f3684503a653a53-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Peter B¨¹hlmann, Pradeep Ravikumar, Michael I. Jordan, Martin Vetterli, Peter J. Bickel, Terence P. Speed, Mark Hansen, Jack L. Gallant, Jorma Rissanen",
+      "D-Index": 73,
+      "Citations": 33492,
+      "#DBLP": 217,
+      "World Rank": 940,
+      "National Rank": 553,
+      "val": 1.75
+    },
+    {
+      "name": "Shankar Sastry",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Mathematical optimization ,Artificial intelligence ,Control theory ",
+      "image": "https://s.research.com/images/e46558f72304af007e78e601296eb9577c21f7ff-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "John Lygeros, Yi Ma, Claire J. Tomlin, Allen Y. Yang, Ruzena Bajcsy, Ren¨¦ Vidal, George J. Pappas, Luca Schenato, Richard M. Murray, Jana Kosecka",
+      "D-Index": 119,
+      "Citations": 78103,
+      "#DBLP": 681,
+      "World Rank": 86,
+      "National Rank": 54,
+      "val": 1.625
+    },
+    {
+      "name": "Sergey Levine",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Reinforcement learning ,Artificial intelligence ,Machine learning ",
+      "image": "https://s.research.com/images/8cdcafd81b87b9dac22501a46cab3fc92c7ad06f-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Chelsea Finn, Trevor Darrell, Jitendra Malik, Yoshua Bengio, Anca D. Dragan, Timothy P. Lillicrap, Vladlen Koltun, Saurabh Gupta, Ronald S. Fearing",
+      "D-Index": 117,
+      "Citations": 62682,
+      "#DBLP": 528,
+      "World Rank": 93,
+      "National Rank": 59,
+      "val": 1.625
+    },
+    {
+      "name": "Alexei A. Efros",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Computer vision ,Image ",
+      "image": "https://s.research.com/images/2ae65d7cf54940ef3473399ce3adad5ed913b95d-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Martial Hebert, Trevor Darrell, Jitendra Malik, Phillip Isola, Abhinav Gupta, Eli Shechtman, Jean-Fran?ois Lalonde, Derek Hoiem, James Hays",
+      "D-Index": 90,
+      "Citations": 79696,
+      "#DBLP": 186,
+      "World Rank": 350,
+      "National Rank": 209,
+      "val": 1.625
+    },
+    {
+      "name": "Yi Ma",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/d05cc51ea796841582bf7b53df60412c4b2337b2-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "John Wright, Allen Y. Yang, Ren¨¦ Vidal, Jana Kosecka, Stefano Soatto, Zhouchen Lin, Shenghua Gao, Kui Jia, Emmanuel J. Cand¨¨s",
+      "D-Index": 82,
+      "Citations": 64363,
+      "#DBLP": 254,
+      "World Rank": 531,
+      "National Rank": 308,
+      "val": 1.625
+    },
+    {
+      "name": "Kurt Keutzer",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Algorithm ,Artificial neural network ",
+      "image": "https://s.research.com/images/07f0497bec897fbdb4604f99bb6d253223b632c2-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Sicheng Zhao, Michael W. Mahoney, Sharad Malik, Joseph E. Gonzalez, Bryan Catanzaro, Alberto Sangiovanni-Vincentelli, James Demmel, Cho-Jui Hsieh, Nadathur Satish",
+      "D-Index": 79,
+      "Citations": 22714,
+      "#DBLP": 366,
+      "World Rank": 674,
+      "National Rank": 398,
+      "val": 1.625
+    },
+    {
+      "name": "Ruzena Bajcsy",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Computer vision ,Simulation ",
+      "image": "https://s.research.com/images/c75f36ff20eab1b464e9bcd816aeed6f51c54ee8-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "James C. Gee, Klara Nahrstedt, Allen Y. Yang, Martin Reivich, Jana Kosecka, Ales Leonardis, Roozbeh Jafari, Henrik I. Christensen, Vijay Kumar",
+      "D-Index": 74,
+      "Citations": 22775,
+      "#DBLP": 496,
+      "World Rank": 899,
+      "National Rank": 534,
+      "val": 1.625
+    },
+    {
+      "name": "Dawn Song",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Machine learning ,Computer security ",
+      "image": "https://s.research.com/images/1fcccf5408e4997ddcbaa608c651be67d1c3d4eb-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Elaine Shi, Adrian Perrig, David Brumley, Heng Yin, Prateek Saxena, Michael K. Reiter, Prateek Mittal, Krste Asanovic, Tadayoshi Kohno, Ion Stoica",
+      "D-Index": 126,
+      "Citations": 75777,
+      "#DBLP": 391,
+      "World Rank": 62,
+      "National Rank": 37,
+      "val": 1.5
+    },
+    {
+      "name": "Alberto Sangiovanni-Vincentelli",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Cyber-physical system ,Artificial intelligence ,Distributed computing ",
+      "image": "https://s.research.com/images/d1e00a8dcf9de8078697a15be204028a2896ff77-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Robert K. Brayton, Luciano Lavagno, Luca P. Carloni, Sanjit A. Seshia, Roberto Passerone, Edoardo Charbon, A.R. Newton, Jacob K. White, Jan M. Rabaey, Haibo Zeng",
+      "D-Index": 114,
+      "Citations": 56811,
+      "#DBLP": 954,
+      "World Rank": 107,
+      "National Rank": 67,
+      "val": 1.5
+    },
+    {
+      "name": "Richard M. Karp",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Algorithm ,Set ,Combinatorics ",
+      "image": "https://s.research.com/images/f3b6014ae5145fcb81be62879cae19f45049dc34-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ron Shamir, Michael Luby, Roded Sharan, Scott Shenker, Eran Halperin, Avi Wigderson, Christos H. Papadimitriou, Trey Ideker, Tao Jiang, Sheldon M. Ross",
+      "D-Index": 105,
+      "Citations": 88505,
+      "#DBLP": 270,
+      "World Rank": 166,
+      "National Rank": 105,
+      "val": 1.5
+    },
+    {
+      "name": "Kannan Ramchandran",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Algorithm ,Theoretical computer science ,Upper and lower bounds ",
+      "image": "https://s.research.com/images/5dc872eb85548fa409f3891539c2bd9a2472678e-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Michael T. Orchard, Zixiang Xiong, Prakash Ishwar, Douglas L. Jones, Martin J. Wainwright, Upamanyu Madhow, P. Vijay Kumar, Salim El Rouayheb, Alexandros G. Dimakis",
+      "D-Index": 92,
+      "Citations": 38556,
+      "#DBLP": 514,
+      "World Rank": 325,
+      "National Rank": 198,
+      "val": 1.5
+    },
+    {
+      "name": "James Demmel",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Parallel computing ,Algorithm ,Artificial intelligence ",
+      "image": "https://s.research.com/images/64842541b1cb233d5fbd717b38d80654070c9d3a-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Katherine Yelick, Zhaojun Bai, Richard Vuduc, Cho-Jui Hsieh, Kurt Keutzer, Christian Bischof, Richard S. Muller, Samuel Williams, Inderjit S. Dhillon",
+      "D-Index": 85,
+      "Citations": 35878,
+      "#DBLP": 354,
+      "World Rank": 457,
+      "National Rank": 268,
+      "val": 1.5
+    },
+    {
+      "name": "John Canny",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Machine learning ,Human¨Ccomputer interaction ",
+      "image": "https://s.research.com/images/c57c1e8955c6b361b2414afe07cf489024f0f7f9-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Dinesh Manocha, Ioannis Z. Emiris, Ming C. Lin, Eric Paulos, Bruce R. Donald, Zexiang Li, John H. Reif, Raimund Seidel, Yun S. Song",
+      "D-Index": 79,
+      "Citations": 64706,
+      "#DBLP": 291,
+      "World Rank": 653,
+      "National Rank": 386,
+      "val": 1.5
+    },
+    {
+      "name": "Ken Goldberg",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Robot ,Computer vision ",
+      "image": "https://s.research.com/images/a53ea056fe5f83ceeaae53850dabcf3d3ef5fdac-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Sachin Patil, Ron Alterovitz, Joseph E. Gonzalez, John Canny, Ion Stoica, Jur van den Berg, Michael J. Franklin, Allison M. Okamura, Mark H. Overmars",
+      "D-Index": 77,
+      "Citations": 22485,
+      "#DBLP": 466,
+      "World Rank": 755,
+      "National Rank": 453,
+      "val": 1.5
+    },
+    {
+      "name": "Benjamin Recht",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Machine learning ,Control theory ",
+      "image": "https://s.research.com/images/c16c37ae1be7070ef8f8515278eb7401f8c86f44-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Christopher R¨¦, Moritz Hardt, Robert Nowak, Emmanuel J. Cand¨¨s, Andrew Packard, Kannan Ramchandran, Stark C. Draper, Ion Stoica, Jason D. Lee",
+      "D-Index": 76,
+      "Citations": 41800,
+      "#DBLP": 179,
+      "World Rank": 770,
+      "National Rank": 460,
+      "val": 1.5
+    },
+    {
+      "name": "Ion Stoica",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Distributed computing ,Reinforcement learning ,Artificial intelligence ",
+      "image": "https://s.research.com/images/7d692a71769f773d64ad2dbc09bb5f68309667a6-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Scott Shenker, Ali Ghodsi, Joseph E. Gonzalez, Matei Zaharia, Joseph M. Hellerstein, Randy H. Katz, Michael J. Franklin, Hui Zhang, Michael I. Jordan, Ganesh Ananthanarayanan",
+      "D-Index": 145,
+      "Citations": 129887,
+      "#DBLP": 490,
+      "World Rank": 19,
+      "National Rank": 12,
+      "val": 1.375
+    },
+    {
+      "name": "David Wagner",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Artificial intelligence ,Adversarial system ,Computer security ",
+      "image": "https://s.research.com/images/5eaefc29117c07c480b54632e4f0d3f2167405a0-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Bruce Schneier, Serge Egelman, Nicholas Carlini, John Kelsey, David Molnar, Ian Goldberg, Phillip Rogaway, Dawn Song, Konstantin Beznosov, Mihir Bellare",
+      "D-Index": 90,
+      "Citations": 62542,
+      "#DBLP": 253,
+      "World Rank": 352,
+      "National Rank": 210,
+      "val": 1.375
+    },
+    {
+      "name": "Robert K. Brayton",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Algorithm ,Theoretical computer science ,Logic synthesis ",
+      "image": "https://s.research.com/images/554d99984a25f3933004c470b56263a1c67676d0-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Sharad Malik, Gary D. Hachtel, Luca P. Carloni, Shaz Qadeer, A.R. Newton, Masahiro Fujita, Curtis T. McMullen, Fabio Somenzi, Luciano Lavagno",
+      "D-Index": 82,
+      "Citations": 28174,
+      "#DBLP": 453,
+      "World Rank": 551,
+      "National Rank": 320,
+      "val": 1.375
+    },
+    {
+      "name": "Scott Shenker",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Computer network ,Distributed computing ,Network packet ",
+      "image": "https://s.research.com/images/2c9cc7b158648c0fb484ff30e10ade6d6ccdc013-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ion Stoica, Sylvia Ratnasamy, Ramesh Govindan, Deborah Estrin, Teemu Koponen, Ali Ghodsi, Matei Zaharia, Martin Casado, Joan Feigenbaum, Lixia Zhang",
+      "D-Index": 150,
+      "Citations": 157134,
+      "#DBLP": 424,
+      "World Rank": 15,
+      "National Rank": 8,
+      "val": 1.25
+    },
+    {
+      "name": "David E. Culler",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Metadata ,Building automation ,Wireless sensor network ",
+      "image": "https://s.research.com/images/535d3909dbd6b100c9e5f97e579b1f5ea227a30e-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Prabal Dutta, Jonathan W. Hui, Philip Levis, Randy H. Katz, Kamin Whitehouse, Matt Welsh, Scott Shenker, Eric Brewer, Thomas Anderson, Seth Copen Goldstein",
+      "D-Index": 125,
+      "Citations": 110443,
+      "#DBLP": 418,
+      "World Rank": 64,
+      "National Rank": 38,
+      "val": 1.25
+    },
+    {
+      "name": "Randy H. Katz",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Distributed computing ,Cloud computing ,The Internet ",
+      "image": "https://s.research.com/images/e79b04674c41d6969112e272a5c13d777d11612b-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "David A. Patterson, Ion Stoica, Anthony D. Joseph, Srinivasan Seshan, Garth A. Gibson, David E. Culler, Hari Balakrishnan, Lakshminarayanan Subramanian, Ethan L. Miller, Peter M. Chen",
+      "D-Index": 117,
+      "Citations": 81627,
+      "#DBLP": 427,
+      "World Rank": 92,
+      "National Rank": 58,
+      "val": 1.25
+    },
+    {
+      "name": "David A. Patterson",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Cloud computing ,Instruction set ,Software ",
+      "image": "https://s.research.com/images/14c141e0ad858e8fa5cf031ffc277833258d1a57-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Armando Fox, Randy H. Katz, Krste Asanovic, Thomas Anderson, Michael I. Jordan, John L. Hennessy, Garth A. Gibson, Katherine Yelick, Peter M. Chen, Michael J. Franklin",
+      "D-Index": 106,
+      "Citations": 103538,
+      "#DBLP": 439,
+      "World Rank": 158,
+      "National Rank": 99,
+      "val": 1.25
+    },
+    {
+      "name": "Vern Paxson",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Computer security ,The Internet ,Internet privacy ",
+      "image": "https://s.research.com/images/8870be09e9970f3de04641da4131a96309d8cd5c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Nicholas Weaver, Christian Kreibich, Mark Allman, Stefan Savage, Damon McCoy, Geoffrey M. Voelker, Scott Shenker, Nick Feamster, Anja Feldmann, Sally Floyd",
+      "D-Index": 103,
+      "Citations": 66190,
+      "#DBLP": 265,
+      "World Rank": 178,
+      "National Rank": 112,
+      "val": 1.25
+    },
+    {
+      "name": "Joseph M. Hellerstein",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Distributed computing ,Consistency ,Scalability ",
+      "image": "https://s.research.com/images/8cd4dd757f930a6383dd4dfae094f60615ab6523-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ion Stoica, Michael J. Franklin, Michael Stonebraker, Samuel Madden, Boon Thau Loo, Minos Garofalakis, Petros Maniatis, Joseph E. Gonzalez, Amol Deshpande, Scott Shenker",
+      "D-Index": 97,
+      "Citations": 48302,
+      "#DBLP": 287,
+      "World Rank": 247,
+      "National Rank": 155,
+      "val": 1.25
+    },
+    {
+      "name": "Edward A. Lee",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Distributed computing ,Cyber-physical system ,Computer security ",
+      "image": "https://s.research.com/images/9a9b268c1b4f5fe11ebb4b76aa080bcb6ad85577-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "David G. Messerschmitt, Stavros Tripakis, Sanjit A. Seshia, Jie Liu, Alberto Sangiovanni-Vincentelli, John R. Barry, Soonhoi Ha, John Wawrzynek, John Kubiatowicz",
+      "D-Index": 88,
+      "Citations": 44934,
+      "#DBLP": 466,
+      "World Rank": 390,
+      "National Rank": 232,
+      "val": 1.25
+    },
+    {
+      "name": "Eric Brewer",
+      "country": "Berkeley",
+      "School": "University of California",
+      "Famous": "Cellular network ,Telecommunications ,Rural electrification ",
+      "image": "https://s.research.com/images/257c84fa7be123d5de05dd1aad230340ab315727-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Steven D. Gribble, David E. Culler, Lakshminarayanan Subramanian, Randy H. Katz, Matt Welsh, Mike Y. Chen, William E. Weihl, Ian Goldberg, Joseph M. Hellerstein",
+      "D-Index": 77,
+      "Citations": 32208,
+      "#DBLP": 199,
+      "World Rank": 736,
+      "National Rank": 438,
+      "val": 1.25
+    },
+    {
+      "name": "Andrew Zisserman",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/2a3913cff9795e86373ee05a7e526b7395f76c76-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Andrea Vedaldi, Josef Sivic, David Forsyth, Philip H. S. Torr, Karen Simonyan, Joseph L. Mundy, Andrew Fitzgibbon, Cordelia Schmid, Jean Ponce, Richard Hartley",
+      "D-Index": 175,
+      "Citations": 255987,
+      "#DBLP": 698,
+      "World Rank": 5,
+      "National Rank": 1,
+      "val": 5.725
+    },
+    {
+      "name": "Richard Hartley",
+      "country": "Australia",
+      "School": "Australian National University",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/a2eb08b356a3f29147d547f3d5d8926637248b6e-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Mehrtash Harandi, Mathieu Salzmann, Andrew Zisserman, Fredrik Kahl, Stephen Gould, Adrien Bartoli, Brian C. Lovell, Conrad Sanderson, Yuchao Dai",
+      "D-Index": 78,
+      "Citations": 70243,
+      "#DBLP": 377,
+      "World Rank": 683,
+      "National Rank": 10,
+      "val": 5.725
+    },
+    {
+      "name": "Andrea Vedaldi",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Object ",
+      "image": "https://s.research.com/images/cbfc4322bef47a20641d9028bc05055565a2af46-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Karen Simonyan, Philip H. S. Torr, Iasonas Kokkinos, Stefano Soatto, Victor Lempitsky, Subhransu Maji, Ingmar Posner, Niloy J. Mitra, Efstratios Gavves",
+      "D-Index": 82,
+      "Citations": 64697,
+      "#DBLP": 221,
+      "World Rank": 530,
+      "National Rank": 36,
+      "val": 4.636859507
+    },
+    {
+      "name": "Philip H. S. Torr",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/765214fbd228fe01143aec7471d96a4bb63ca0ab-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Pushmeet Kohli, Andrew Zisserman, Ming-Ming Cheng, Roberto Cipolla, Andrea Vedaldi, Carsten Rother, Anthony Dick, Andrew Fitzgibbon, Song Bai, Bjorn Stenger",
+      "D-Index": 112,
+      "Citations": 63927,
+      "#DBLP": 528,
+      "World Rank": 116,
+      "National Rank": 6,
+      "val": 4.0
+    },
+    {
+      "name": "Josef Sivic",
+      "country": "Czech Republic",
+      "School": "Czech Technical University in Prague",
+      "Famous": "Artificial intelligence ,Computer vision ,Code ",
+      "image": "https://s.research.com/images/d28e21f3506ff5de59bf2fdc71f93a79af19c310-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Andrew Zisserman, Tomas Pajdla, Bryan C. Russell, Simon Lacoste-Julien, Masatoshi Okutomi, Torsten Sattler, Jean Ponce, Alexei A. Efros, Marc Pollefeys",
+      "D-Index": 74,
+      "Citations": 32788,
+      "#DBLP": 166,
+      "World Rank": 874,
+      "National Rank": 2,
+      "val": 2.855929754
+    },
+    {
+      "name": "Cordelia Schmid",
+      "country": "France",
+      "School": "French Institute for Research in Computer Science and Automation - INRIA",
+      "Famous": "Artificial intelligence ,Machine learning ,Transformer ",
+      "image": "https://s.research.com/images/376a35467ca3339dc6095c7493cd08f356ac5b14-65x65.gif",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Herv¨¦ J¨¦gou, Jean Ponce, Matthijs Douze, Jakob Verbeek, Svetlana Lazebnik, Ivan Laptev, Fr¨¦d¨¦ric Jurie, Andrew Zisserman, Zaid Harchaoui, Krystian Mikolajczyk",
+      "D-Index": 135,
+      "Citations": 120017,
+      "#DBLP": 424,
+      "World Rank": 31,
+      "National Rank": 1,
+      "val": 2.1
+    },
+    {
+      "name": "Jean Ponce",
+      "country": "France",
+      "School": "Ãcole Normale SupÃ©rieure",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Convolutional neural network ",
+      "image": "https://s.research.com/images/afdab1d1f45ad002e2a01fc8404389bdd5ea107c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Francis Bach, Svetlana Lazebnik, David J. Kriegman, Martial Hebert, Minsu Cho, Andrew Zisserman, Yasutaka Furukawa, Ivan Laptev, Julien Mairal",
+      "D-Index": 77,
+      "Citations": 57120,
+      "#DBLP": 258,
+      "World Rank": 726,
+      "National Rank": 11,
+      "val": 1.5
+    },
+    {
+      "name": "Andrew Fitzgibbon",
+      "country": "United States",
+      "School": "Microsoft (United States)",
+      "Famous": "Artificial intelligence ,Computer vision ,Pose ",
+      "image": "https://s.research.com/images/73053be94f0ac3ea6b940cda04987288edc30299-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Shahram Izadi, Andrew Zisserman, Robert B. Fisher, Pushmeet Kohli, Antonio Criminisi, Philip H. S. Torr, David Kim, Roberto Cipolla, Otmar Hilliges",
+      "D-Index": 76,
+      "Citations": 44187,
+      "#DBLP": 264,
+      "World Rank": 769,
+      "National Rank": 459,
+      "val": 1.5
+    },
+    {
+      "name": "Michael Wooldridge",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Mathematical economics ,Nash equilibrium ,Theoretical computer science ",
+      "image": "https://s.research.com/images/9d08e6c016e191eb2d57f0b4315fd46aeb3af8c1-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wiebe van der Hoek, Simon Parsons, Sarit Kraus, Michael Fisher, Peter McBurney, Rafael H. Bordini, Juan A. Rodr¨ªguez-Aguilar, Carles Sierra, Edith Elkind",
+      "D-Index": 98,
+      "Citations": 70850,
+      "#DBLP": 502,
+      "World Rank": 230,
+      "National Rank": 9,
+      "val": 1.375
+    },
+    {
+      "name": "Ian Horrocks",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Theoretical computer science ,Datalog ,Ontology ",
+      "image": "https://s.research.com/images/de07959952562257e051323d514f6a0a205edee0-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Bernardo Cuenca Grau, Boris Motik, Ernesto Jim¨¦nez-Ruiz, Ulrike Sattler, Peter F. Patel-Schneider, Jeff Z. Pan, Dieter Fensel, Michel C. A. Klein, Frank van Harmelen, Sean Bechhofer",
+      "D-Index": 95,
+      "Citations": 46052,
+      "#DBLP": 432,
+      "World Rank": 271,
+      "National Rank": 15,
+      "val": 1.375
+    },
+    {
+      "name": "Georg Gottlob",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Theoretical computer science ,Datalog ,Conjunctive query ",
+      "image": "https://s.research.com/images/a47733787a08d91b046b4656cbb02829546f468a-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Nicola Leone, Thomas Lukasiewicz, Christoph Koch, Stefano Ceri, Thomas Schwentick, Gerhard Friedrich, Wolfgang Faber, Helmut Veith, Michael Kifer",
+      "D-Index": 79,
+      "Citations": 25645,
+      "#DBLP": 423,
+      "World Rank": 667,
+      "National Rank": 46,
+      "val": 1.375
+    },
+    {
+      "name": "Nigel Shadbolt",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Internet privacy ,World Wide Web ,Data science ",
+      "image": "https://s.research.com/images/1eec6f31ba17896426325d3d6950089b4f193dd1-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wendy Hall, Harith Alani, David De Roure, Paul Lewis, Tim Berners-Lee, Carole Goble, Jun Zhao, Nicholas R. Jennings, mc schraefel",
+      "D-Index": 78,
+      "Citations": 25040,
+      "#DBLP": 576,
+      "World Rank": 706,
+      "National Rank": 48,
+      "val": 1.375
+    },
+    {
+      "name": "Luca Cardelli",
+      "country": "United Kingdom",
+      "School": "University of Oxford",
+      "Famous": "Programming language ,Theoretical computer science ,Algorithm ",
+      "image": "https://s.research.com/images/01c69debaad4b1fdcbe3706140b13a3f27364f64-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Marta Kwiatkowska, Andrew D. Gordon, Alessandro Abate, Benjamin C. Pierce, John C. Mitchell, Gordon Plotkin, Stephen J. Roberts, Corrado Priami, Ehud Shapiro",
+      "D-Index": 73,
+      "Citations": 31163,
+      "#DBLP": 225,
+      "World Rank": 942,
+      "National Rank": 61,
+      "val": 1.375
+    },
+    {
+      "name": "Fatih Porikli",
+      "country": "Australia",
+      "School": "Australian National University",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Computer vision ",
+      "image": "https://s.research.com/images/3f1d94bc58554aeed9f546e46b4b465dc76a38c1-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jianbing Shen, Mehrtash Harandi, Ling Shao, Wenguan Wang, Hongdong Li, Thierry Bouwmans, Yuchao Dai, Fahad Shahbaz Khan, Peter Meer",
+      "D-Index": 72,
+      "Citations": 27385,
+      "#DBLP": 408,
+      "World Rank": 997,
+      "National Rank": 15,
+      "val": 0.85
+    },
+    {
+      "name": "Xiaoou Tang",
+      "country": "China",
+      "School": "Chinese University of Hong Kong",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Computer vision ",
+      "image": "https://s.research.com/images/b9f11b569da0dde56ed75635ad3d9bad9a8cca28-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Xiaogang Wang, Chen Change Loy, Jianzhuang Liu, Ping Luo, Dahua Lin, Shuicheng Yan, Jian Sun, Yu Qiao, Zhouchen Lin, Heung-Yeung Shum",
+      "D-Index": 135,
+      "Citations": 116872,
+      "#DBLP": 526,
+      "World Rank": 32,
+      "National Rank": 2,
+      "val": 0.75
+    },
+    {
+      "name": "Xiaogang Wang",
+      "country": "China",
+      "School": "Chinese University of Hong Kong",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/56632c0c50be32e6c17523925403790b31aaae6f-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Hongsheng Li, Xiaoou Tang, Wanli Ouyang, Ping Luo, Junjie Yan, Bolei Zhou, Jianping Shi, Ziwei Liu, Chen Change Loy, Nicu Sebe",
+      "D-Index": 131,
+      "Citations": 78194,
+      "#DBLP": 390,
+      "World Rank": 39,
+      "National Rank": 3,
+      "val": 0.75
+    },
+    {
+      "name": "Tieniu Tan",
+      "country": "China",
+      "School": "Chinese Academy of Sciences",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Computer vision ",
+      "image": "https://s.research.com/images/deb67468f52f8cd9143d5f1c76148469ef374456-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Zhenan Sun, Kaiqi Huang, Liang Wang, Yunhong Wang, Ran He, Zhaoxiang Zhang, Weiming Hu, Dacheng Tao, Long Quan, Stan Z. Li",
+      "D-Index": 107,
+      "Citations": 49299,
+      "#DBLP": 691,
+      "World Rank": 155,
+      "National Rank": 16,
+      "val": 0.75
+    },
+    {
+      "name": "Pascal Fua",
+      "country": "Switzerland",
+      "School": "Ãcole Polytechnique FÃ©dÃ©rale de Lausanne",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/b4787d1a0e30ce9a17ed8c9eb23a1051697fc203-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Vincent Lepetit, Mathieu Salzmann, Xinchao Wang, Slobodan Ilic, Raquel Urtasun, Daniel Thalmann, Graham Knott, Francesc Moreno-Noguer, Nassir Navab, Ronan Boulic",
+      "D-Index": 103,
+      "Citations": 57715,
+      "#DBLP": 586,
+      "World Rank": 181,
+      "National Rank": 10,
+      "val": 0.75
+    },
+    {
+      "name": "Josef Kittler",
+      "country": "United Kingdom",
+      "School": "University of Surrey",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Computer vision ",
+      "image": "https://s.research.com/images/4e4b21c82b3081f72a8a8e0b47af8e085ebf6c0d-65x65.png",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Maria Petrou, Jiri Matas, Norman Poh, John Illingworth, Takeo Kanade, David Hutchison, Krystian Mikolajczyk, Majid Mirmehdi, Fabio Roli, Tae-Kyun Kim",
+      "D-Index": 95,
+      "Citations": 59637,
+      "#DBLP": 870,
+      "World Rank": 267,
+      "National Rank": 14,
+      "val": 0.75
+    },
+    {
+      "name": "Pushmeet Kohli",
+      "country": "United Kingdom",
+      "School": "DeepMind (United Kingdom)",
+      "Famous": "Artificial intelligence ,Computer vision ,Machine learning ",
+      "image": "https://s.research.com/images/a5060a8712b8202150024b672c125f5d2bc04f92-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Jamie Shotton, Shahram Izadi, Carsten Rother, Andrew Fitzgibbon, Rishabh Singh, David Kim, Yoram Bachrach, Sebastian Nowozin, Antonio Criminisi",
+      "D-Index": 94,
+      "Citations": 44714,
+      "#DBLP": 360,
+      "World Rank": 287,
+      "National Rank": 17,
+      "val": 0.75
+    },
+    {
+      "name": "Horst Bischof",
+      "country": "Austria",
+      "School": "Graz University of Technology",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/7c1dce640060d61c9f65d25907839d643805675a-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ales Leonardis, Friedrich Fraundorfer, Georg Langs, Axel Pinz, Christopher Zach, Daniel Cremers, Gert Pfurtscheller, Reinhold Scherer, Peter Brunner",
+      "D-Index": 93,
+      "Citations": 44118,
+      "#DBLP": 798,
+      "World Rank": 304,
+      "National Rank": 3,
+      "val": 0.75
+    },
+    {
+      "name": "Ioannis Pitas",
+      "country": "Greece",
+      "School": "Aristotle University of Thessaloniki",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/c72c401021dd457ceb8203d701c8668a1c8353db-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Anastasios Tefas, Nikos Nikolaidis, Constantine Kotropoulos, Alexandros Iosifidis, Anastasios N. Venetsanopoulos, Stefanos Zafeiriou, Michael G. Strintzis, Ming Liu, Moncef Gabbouj, Maja Pantic",
+      "D-Index": 87,
+      "Citations": 32637,
+      "#DBLP": 809,
+      "World Rank": 416,
+      "National Rank": 1,
+      "val": 0.75
+    },
+    {
+      "name": "Xilin Chen",
+      "country": "China",
+      "School": "University of Chinese Academy of Sciences",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Computer vision ",
+      "image": "https://s.research.com/images/740d8810a307537c69a6b957788238c1a054162c-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Wen Gao, Ruiping Wang, Hu Han, Jie Yang, Debin Zhao, Hongxun Yao, Shihong Lao, Guoying Zhao, Matti Pietik?inen",
+      "D-Index": 83,
+      "Citations": 28229,
+      "#DBLP": 487,
+      "World Rank": 519,
+      "National Rank": 41,
+      "val": 0.75
+    },
+    {
+      "name": "Antonio Criminisi",
+      "country": "United Kingdom",
+      "School": "Amazon (United Kingdom)",
+      "Famous": "Artificial intelligence ,Pattern recognition ,Convolutional neural network ",
+      "image": "https://s.research.com/images/32c546c08e85789d59b5280b01738392b5c647fe-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Ben Glocker, Andrew Blake, Ender Konukoglu, Nicholas Ayache, John Winn, Abigail Sellen, Carsten Rother, Andrew Zisserman, Aditya V. Nori",
+      "D-Index": 82,
+      "Citations": 35216,
+      "#DBLP": 263,
+      "World Rank": 539,
+      "National Rank": 37,
+      "val": 0.75
+    },
+    {
+      "name": "Nicholas Ayache",
+      "country": "France",
+      "School": "French Institute for Research in Computer Science and Automation - INRIA",
+      "Famous": "Artificial intelligence ,Computer vision ,Pattern recognition ",
+      "image": "https://s.research.com/images/7e334dd9d4f321a075ba19f38ce1223ef57e8e25-65x65.jpeg",
+      "link": "https://research.com/u/anil-k-jain",
+      "co-author": "Herv¨¦ Delingette, Xavier Pennec, Maxime Sermesant, Gr¨¦goire Malandain, Tom Vercauteren, Bjoern H. Menze, Ender Konukoglu, Antonio Criminisi, Sebastien Ourselin, Luc Soler",
+      "D-Index": 106,
+      "Citations": 48583,
+      "#DBLP": 594,
+      "World Rank": 163,
+      "National Rank": 4,
+      "val": 0.725
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 2.58
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 1.25
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 1.85
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 13,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 15,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 17,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 18,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 19,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 20,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 21,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 22,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 23,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 24,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 25,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 26,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 27,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 28,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 29,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 30,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 31,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 32,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 33,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 34,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 35,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 36,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 37,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 38,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 39,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 40,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 41,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 42,
+      "value": 0.38
+    },
+    {
+      "source": 0,
+      "target": 43,
+      "value": 0.38
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "value": 3.39
+    },
+    {
+      "source": 44,
+      "target": 46,
+      "value": 2.99
+    },
+    {
+      "source": 44,
+      "target": 47,
+      "value": 0.75
+    },
+    {
+      "source": 44,
+      "target": 48,
+      "value": 0.75
+    },
+    {
+      "source": 44,
+      "target": 49,
+      "value": 0.75
+    },
+    {
+      "source": 44,
+      "target": 50,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 51,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 52,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 13,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 15,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 53,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 54,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 18,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 55,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 56,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 26,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 28,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 33,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 37,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 38,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 40,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 41,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 42,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 57,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 58,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 59,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 60,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 61,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 62,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 63,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 64,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 65,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 66,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 67,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 68,
+      "value": 0.63
+    },
+    {
+      "source": 44,
+      "target": 69,
+      "value": 0.63
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "value": 4.992789261
+    },
+    {
+      "source": 70,
+      "target": 72,
+      "value": 3.236859507
+    },
+    {
+      "source": 70,
+      "target": 73,
+      "value": 2.505929754
+    },
+    {
+      "source": 70,
+      "target": 74,
+      "value": 2.230929754
+    },
+    {
+      "source": 70,
+      "target": 5,
+      "value": 1.625
+    },
+    {
+      "source": 70,
+      "target": 28,
+      "value": 1.625
+    },
+    {
+      "source": 70,
+      "target": 58,
+      "value": 1.625
+    },
+    {
+      "source": 70,
+      "target": 75,
+      "value": 1.625
+    },
+    {
+      "source": 70,
+      "target": 76,
+      "value": 1.5
+    },
+    {
+      "source": 70,
+      "target": 77,
+      "value": 1.5
+    },
+    {
+      "source": 70,
+      "target": 78,
+      "value": 1.375
+    },
+    {
+      "source": 70,
+      "target": 79,
+      "value": 1.375
+    },
+    {
+      "source": 70,
+      "target": 80,
+      "value": 1.25
+    },
+    {
+      "source": 70,
+      "target": 81,
+      "value": 1.25
+    },
+    {
+      "source": 70,
+      "target": 82,
+      "value": 1.25
+    },
+    {
+      "source": 70,
+      "target": 83,
+      "value": 1.25
+    },
+    {
+      "source": 70,
+      "target": 17,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 84,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 85,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 86,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 87,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 88,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 89,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 90,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 91,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 92,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 93,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 94,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 95,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 96,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 97,
+      "value": 0.625
+    },
+    {
+      "source": 70,
+      "target": 98,
+      "value": 0.625
+    },
+    {
+      "source": 4,
+      "target": 39,
+      "value": 3.875
+    },
+    {
+      "source": 4,
+      "target": 42,
+      "value": 3.355929754
+    },
+    {
+      "source": 4,
+      "target": 99,
+      "value": 3.25
+    },
+    {
+      "source": 4,
+      "target": 100,
+      "value": 2.380929754
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "value": 1.75
+    },
+    {
+      "source": 4,
+      "target": 101,
+      "value": 1.75
+    },
+    {
+      "source": 4,
+      "target": 102,
+      "value": 1.75
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 103,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 104,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 105,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 106,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 107,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 92,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 108,
+      "value": 1.625
+    },
+    {
+      "source": 4,
+      "target": 109,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 110,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 111,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 112,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 113,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 114,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 115,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 116,
+      "value": 1.5
+    },
+    {
+      "source": 4,
+      "target": 117,
+      "value": 1.375
+    },
+    {
+      "source": 4,
+      "target": 118,
+      "value": 1.375
+    },
+    {
+      "source": 4,
+      "target": 119,
+      "value": 1.375
+    },
+    {
+      "source": 4,
+      "target": 120,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 121,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 122,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 123,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 124,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 125,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 126,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 127,
+      "value": 1.25
+    },
+    {
+      "source": 4,
+      "target": 60,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 129,
+      "value": 5.725
+    },
+    {
+      "source": 128,
+      "target": 130,
+      "value": 4.636859507
+    },
+    {
+      "source": 128,
+      "target": 131,
+      "value": 4.0
+    },
+    {
+      "source": 128,
+      "target": 132,
+      "value": 2.855929754
+    },
+    {
+      "source": 128,
+      "target": 133,
+      "value": 2.1
+    },
+    {
+      "source": 128,
+      "target": 76,
+      "value": 1.6
+    },
+    {
+      "source": 128,
+      "target": 134,
+      "value": 1.5
+    },
+    {
+      "source": 128,
+      "target": 135,
+      "value": 1.5
+    },
+    {
+      "source": 128,
+      "target": 136,
+      "value": 1.375
+    },
+    {
+      "source": 128,
+      "target": 137,
+      "value": 1.375
+    },
+    {
+      "source": 128,
+      "target": 138,
+      "value": 1.375
+    },
+    {
+      "source": 128,
+      "target": 139,
+      "value": 1.375
+    },
+    {
+      "source": 128,
+      "target": 140,
+      "value": 1.375
+    },
+    {
+      "source": 128,
+      "target": 141,
+      "value": 0.85
+    },
+    {
+      "source": 128,
+      "target": 8,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 142,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 143,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 11,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 144,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 145,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 146,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 147,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 148,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 149,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 150,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 151,
+      "value": 0.75
+    },
+    {
+      "source": 128,
+      "target": 5,
+      "value": 0.725
+    },
+    {
+      "source": 128,
+      "target": 152,
+      "value": 0.725
+    },
+    {
+      "source": 128,
+      "target": 77,
+      "value": 0.725
+    }
+  ]
+}

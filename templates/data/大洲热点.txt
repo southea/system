@@ -1,0 +1,289 @@
+{
+  "North America": [
+    [
+      "Artificial intelligence",
+      741
+    ],
+    [
+      "Operating system",       
+      402
+    ],
+    [
+      "Statistics",
+      279
+    ],
+    [
+      "Computer network",       
+      259
+    ],
+    [
+      "The Internet",
+      255
+    ],
+    [
+      "Machine learning",
+      247
+    ],
+    [
+      "Programming language",
+      246
+    ],
+    [
+      "Algorithm",
+      180
+    ],
+    [
+      "Computer vision",
+      171
+    ],
+    [
+      "Database",
+      47
+    ]
+  ],
+  "Europe": [
+    [
+      "Artificial intelligence",
+      309
+    ],
+    [
+      "Statistics",
+      126
+    ],
+    [
+      "Machine learning",
+      124
+    ],
+    [
+      "Operating system",
+      102
+    ],
+    [
+      "Computer vision",
+      81
+    ],
+    [
+      "Programming language",
+      81
+    ],
+    [
+      "The Internet",
+      63
+    ],
+    [
+      "Computer network",
+      53
+    ],
+    [
+      "Algorithm",
+      48
+    ],
+    [
+      "Software",
+      17
+    ]
+  ],
+  "Asia": [
+    [
+      "Artificial intelligence",
+      208
+    ],
+    [
+      "Machine learning",
+      112
+    ],
+    [
+      "Statistics",
+      77
+    ],
+    [
+      "Computer vision",
+      56
+    ],
+    [
+      "Computer network",
+      51
+    ],
+    [
+      "Operating system",
+      47
+    ],
+    [
+      "The Internet",
+      37
+    ],
+    [
+      "Algorithm",
+      21
+    ],
+    [
+      "Mathematical optimization",
+      9
+    ]
+  ],
+  "Oceania": [
+    [
+      "Artificial intelligence",
+      48
+    ],
+    [
+      "Machine learning",
+      25
+    ],
+    [
+      "Statistics",
+      19
+    ],
+    [
+      "The Internet",
+      11
+    ],
+    [
+      "Operating system",
+      10
+    ],
+    [
+      "Computer vision",
+      9
+    ],
+    [
+      "Algorithm",
+      7
+    ],
+    [
+      "Computer network",
+      7
+    ],
+    [
+      "Programming language",
+      6
+    ],
+    [
+      "Software",
+      3
+    ]
+  ],
+  "South America": [
+    [
+      "Algorithm",
+      1
+    ],
+    [
+      "Artificial intelligence",
+      1
+    ],
+    [
+      "Programming language",
+      1
+    ]
+  ],
+  "Africa": [
+    [
+      "Artificial intelligence",
+      4
+    ],
+    [
+      "Machine learning",
+      2
+    ],
+    [
+      "Computer network",
+      2
+    ],
+    [
+      "Statistics",
+      1
+    ],
+    [
+      "The Internet",
+      1
+    ],
+    [
+      "Mathematical optimization",
+      1
+    ],
+    [
+      "Operating system",
+      1
+    ]
+  ]
+}
+[
+  ["Artificial intelligence", 1318],
+  ["Operating system", 541],
+  ["Statistics", 506],
+  ["Machine learning", 410],
+  ["Computer network", 322],
+  ["The Internet", 308],
+  ["Programming language", 314],
+  ["Algorithm", 251],
+  ["Computer vision", 271],
+  ["Database", 53],
+  ["Software", 20],
+  ["Mathematical optimization", 10]
+]
+
+百分比
+{
+  "North America": [
+    ["Artificial intelligence", 29.38],
+    ["Operating system", 15.94],
+    ["Statistics", 11.06],
+    ["Computer network", 10.26],
+    ["The Internet", 10.08],
+    ["Machine learning", 9.74],
+    ["Programming language", 9.72],
+    ["Algorithm", 7.08],
+    ["Computer vision", 6.67],
+    ["Database", 1.84]
+  ],
+  "Europe": [
+    ["Artificial intelligence", 30.68],
+    ["Statistics", 12.47],
+    ["Machine learning", 12.29],
+    ["Operating system", 10.07],
+    ["Computer vision", 7.98],
+    ["Programming language", 7.98],
+    ["The Internet", 6.27],
+    ["Computer network", 5.29],
+    ["Algorithm", 4.81],
+    ["Software", 1.70]
+  ],
+  "Asia": [
+    ["Artificial intelligence", 32.16],
+    ["Machine learning", 17.34],
+    ["Statistics", 11.82],
+    ["Computer vision", 8.66],
+    ["Computer network", 7.91],
+    ["Operating system", 7.27],
+    ["The Internet", 5.71],
+    ["Algorithm", 3.25],
+    ["Mathematical optimization", 1.42]
+  ],
+  "Oceania": [
+    ["Artificial intelligence", 38.46],
+    ["Machine learning", 20.19],
+    ["Statistics", 15.38],
+    ["The Internet", 11.54],
+    ["Operating system", 10.26],
+    ["Computer vision", 9.62],
+    ["Algorithm", 7.69],
+    ["Computer network", 7.69],
+    ["Programming language", 6.41],
+    ["Software", 3.21]
+  ],
+  "South America": [
+    ["Algorithm", 33.33],
+    ["Artificial intelligence", 33.33],
+    ["Programming language", 33.33]
+  ],
+  "Africa": [
+    ["Artificial intelligence", 28.57],
+    ["Machine learning", 14.29],
+    ["Computer network", 14.29],
+    ["Statistics", 7.14],
+    ["The Internet", 7.14],
+    ["Mathematical optimization", 7.14],
+    ["Operating system", 7.14]
+  ]
+}

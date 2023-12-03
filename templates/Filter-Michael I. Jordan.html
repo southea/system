@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Filter-Michael I.Jordan</title>
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta charset="utf-8">
+    <meta content="" name="keywords" />
+
+    <script type="application/x-javascript">
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <link href="css/chocolat.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:300,300i,400,400i,700,700i,800"
+        rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Mallanna" rel="stylesheet">
+    <link href="css/filer.css" rel="stylesheet">
+    <link href="css/profile.css" rel="stylesheet">
+</head>
+
+<style>
+    .rankings-filters {
+        margin-left: 50px;
+        /* 左边距为50像素 */
+        margin-right: 50px;
+        /* 右边距为50像素 */
+    }
+
+    .rankings-content {
+        margin-left: 50px;
+        /* 左边距为50像素 */
+        margin-right: 50px;
+        /* 右边距为50像素 */
+    }
+</style>
+
+
+<body>
+    <div class="header inner_banner" id="home">
+        <!--/top-bar-->
+        <div class="top-bar">
+            <div class="header-nav-agileits">
+                <nav class="navbar navbar-default">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1"
+                            data-toggle="collapse" type="button">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <h1><a class="navbar-brand" href="Home.html">CS Network</a></h1>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+                        <nav>
+                            <ul class="top_nav">
+                                <li><a class="active" href="Home.html">Home</a></li>
+                                <li><a href="CS Network Graph.html">CS Network Graph</a></li>
+                                <li class="dropdown">
+                                    <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle"
+                                        data-hover="Pages" data-toggle="dropdown" href="#"
+                                        role="button">Distribution<span class="fa fa-angle-down"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="World.html">World</a></li>
+                                        <li><a href="China.html">China</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="Filter.html">Filter</a></li>
+                                <li><a href="Paper Recommendation.html">Paper Recommendation</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </nav>
+
+            </div>
+        </div>
+        <!--//top-bar-->
+        <!--/ banner-text -->
+        <!--// banner-text -->
+    </div>
+    <!--/short-->
+    <div class="services-breadcrumb-w3ls-agile">
+        <div class="inner_breadcrumb">
+            <ul class="short">
+                <li><a href="Home.html">Home</a><span>|</span></li>
+                <li>Filter-Michael I. Jordan</li>
+            </ul>
+        </div>
+    </div>
+    <!--//short-->
+
+    
+    <div class="rankings-filters">
+        <div class="cols wrap justify-center">
+            <div class="cols col col--5 col--tablet wrap-tablet px-0 py-0">
+                <div class="col col--5-12 col--tablet">
+                    <form class="relative" data-gtm-form-interact-id="0" id="searchRanking">
+                        <span class="clear-search" id="clearFilter"></span>
+                        <input class="filled" data-gtm-form-interact-field-id="0" id="searchQuery" minlength="2"
+                            placeholder="Search by name" required="" type="text" value="Michael I. Jordan">
+                        <button aria-label="Search" type="submit" onclick="redirectToPage()"></button>
+                    </form>
+                </div>
+                <div class="col col--2 col--tablet">
+                    <div class="select">
+                        <select class="filled" data-dynamicfilter="false" id="filterDisciplines"
+                            onchange="redirectPage2()">
+                            <option value="Filter.html" selected="">
+                                All Field
+                            </option>
+                            <option value="Nuclear_Physics.html">
+                                Nuclear Physics
+                            </option>
+                            <option data-filterlink="/scientists-rankings/business-and-management"
+                                value="Atomic Physics">
+                                Atomic Physics
+                            </option>
+                            <option data-filterlink="/scientists-rankings/chemistry" value="Ecology">
+                                Ecology
+                            </option>
+                            <option value="Artificial_intelligence.html">
+                                Artificial Intelligence
+                            </option>
+                            <option data-filterlink="/scientists-rankings/earth-science" value="Biometrics">
+                                Biometrics
+                            </option>
+                            <option value="Pattern_recognition.html">
+                                Pattern Recognition
+                            </option>
+                            <option data-filterlink="/scientists-rankings/economics-and-finance"
+                                value="Mathematical Optimization">
+                                Mathematical Optimization
+                            </option>
+                            <option data-filterlink="/scientists-rankings/electronics-and-electrical-engineering"
+                                value="Multi-objective Optimization">
+                                Multi-objective Optimization
+                            </option>
+                            <option data-filterlink="/scientists-rankings/engineering-and-technology"
+                                value="Optimization Problem">
+                                Optimization Problem
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col col--2 col--tablet">
+                    <div class="select">
+                        <select data-dynamicfilter="false" id="filterCountries" onchange="redirectPage()">
+                            <option value="Filter.html">
+                                All countries
+                            </option>
+                            <option value="Filter-Australia.html">
+                                Australia (285)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/at"
+                                value="at">
+                                Austria (94)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/ca"
+                                value="ca">
+                                Canada (413)
+                            </option>
+                            <option value="Filter-China.html">
+                                China (1030)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/fi"
+                                value="fi">
+                                Finland (89)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/fr"
+                                value="fr">
+                                France (256)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/de"
+                                value="de">
+                                Germany (495)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/gr"
+                                value="gr">
+                                Greece (74)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/hk"
+                                value="hk">
+                                Hong Kong (1)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/in"
+                                value="in">
+                                India (99)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/ie"
+                                value="ie">
+                                Ireland (39)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/il"
+                                value="il">
+                                Israel (176)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/it"
+                                value="it">
+                                Italy (331)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/jp"
+                                value="jp">
+                                Japan (174)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/sg"
+                                value="sg">
+                                Singapore (138)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/kr"
+                                value="kr">
+                                South Korea (122)
+                            </option>
+                            <option data-filterlink="https://research.com/scientists-rankings/computer-science/tw"
+                                value="tw">
+                                Taiwan (96)
+                            </option>
+                            <option value="Filter-United_kingdom.html">
+                                United Kingdom (627)
+                            </option>
+                            <option value="Filter-United_states.html">
+                                United States (4576)
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--ranking list-->
+    <div class="rankings-content bg-white shadow">
+        <div class="cols justify-center">
+            <div class="col col--5 col--tablet rankings-content__items">
+                <div class="cols hide-tablet rankings-content__head">
+                    <div class="col col--1 cols mx-0 py-0 px-0 center">
+                        <div class="col col--3 px-0">
+                            World
+                        </div>
+                        <div class="col col--3 px-0">
+                            National
+                        </div>
+                    </div>
+                    <div class="col col--5-12 cols mx-0 py-0">
+                        <div class="col col--1"></div>
+                        <div class="col col--5">
+                            Scholar
+                        </div>
+                    </div>
+                    <div class="col col--5-12 cols mx-0">
+                        <div class="col col--2 py-0 center with-tooltip relative">
+                            D-Index
+                            <span class="tooltip">
+                                D-index (Discipline H-index) only includes papers and citation values for an examined
+                                discipline in contrast to General H-index which accounts for publications across all
+                                disciplines.
+                            </span>
+                        </div>
+                        <div class="col col--2 py-0 center">
+                            Citations
+                        </div>
+                        <div class="col col--2 py-0 px-0 center">
+                            Publications
+                        </div>
+                    </div>
+                </div>
+                <div id="rankingItems" data-items="25">
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/ranking list-->
+
+    <!--footer-->
+    <div class="contact-footer-w3layouts-agile">
+        <div class="bottom-social-agileits-w3ls">
+            <div class="container">
+                <div class="col-md-8 botttom-nav-w3ls-agileits">
+                    <ul class="f_links col-md-4">
+                        <li>
+                            <a href="Home.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="CS Network Graph.html">CS Network Graph</a>
+                        </li>
+                        <li>
+                            <a href="World.html">World</a>
+                        </li>
+                        <li>
+                            <a href="China.html">China</a>
+                        </li>
+                        <li>
+                            <a href="Filter.html">Filter</a>
+                        </li>
+                    </ul>
+                    <ul class="f_links col-md-4">
+                        <li>
+                            <a href="index.html">Topics</a>
+                        </li>
+                        <li>
+                            <a href="404.html">Blog</a>
+                        </li>
+                        <li>
+                            <a href="404.html">Careers</a>
+                        </li>
+                        <li>
+                            <a href="services.html">Services</a>
+                        </li>
+                    </ul>
+                    <ul class="f_links thrd col-md-4">
+                        <li>
+                            <a href="index.html">Topics</a>
+                        </li>
+                        <li>
+                            <a href="404.html">Events</a>
+                        </li>
+                        <li>
+                            <a href="app.html">Mobile App</a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="col-md-4 social-icons-wthree">
+                    <h6>Connect with us</h6>
+                    <a class="facebook" href="#"><span class="fa fa-facebook"></span></a>
+                    <a class="twitter" href="#"><span class="fa fa-twitter"></span></a>
+                    <a class="pinterest" href="#"><span class="fa fa-pinterest-p"></span></a>
+                    <a class="linkedin" href="#"><span class="fa fa-linkedin"></span></a>
+                </div>
+                <div class="clearfix"></div>
+
+            </div>
+        </div>
+        <div class="copy-w3-agileits">
+            <h2 class="footer-logo"><a href="Home.html">CS Network</a></h2>
+            <p>Copyright &copy; 2018.Company name All rights reserved.</p>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!--/footer -->
+
+    <!-- js -->
+    <script src="js/jquery-2.2.3.min.js" type="text/javascript"></script>
+    <!-- //js -->
+    <!--search-bar-->
+    <script src="js/main.js"></script>
+    <!--gallery -->
+    <script src="js/jquery.chocolat.js"></script>
+    <!--light-box-files -->
+    <script type="text/javascript">
+        $(function () {
+            $('.gallery-grid1 a').Chocolat();
+        });
+    </script>
+    <!-- //gallery -->
+    <!--//search-bar-->
+    <link href="css/easy-responsive-tabs.css " rel="stylesheet" type="text/css" />
+    <!-- start-smoth-scrolling -->
+    <script src="js/move-top.js" type="text/javascript"></script>
+    <script src="js/easing.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 900);
+            });
+        });
+    </script>
+    <!-- start-smoth-scrolling -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+    </script>
+    <a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+    <script src="js/bootstrap-3.1.1.min.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        a = $.ajax({
+            url: "../data/Michael I. Jordan.json",
+            type: "GET",
+            dataType: "json",
+            async: false,
+            success: function (data) {
+            }
+        });
+        aa = a.responseText;
+        result = $.parseJSON(a["responseText"]);//数据集
+        var list_item = document.getElementById("rankingItems");
+        var index = 0;
+
+        for (var i = 0; i < 31; i++) {
+            // 创建主容器
+            var mainContainer = document.createElement('div');
+            mainContainer.classList.add('cols', 'scientist-item', 'rankings-content__item');
+
+
+            // 创建第一个子容器
+            var col1Container = document.createElement('span');
+            col1Container.classList.add('col', 'col--1', 'cols', 'col--tablet', 'mx-0', 'py-0', 'px-0', 'center', 'positions');
+
+            // 创建第一个位置
+            var position1 = createPosition(result[i]['World Rank'], 'World', true);
+            col1Container.appendChild(position1);
+
+            // 创建第二个位置
+            var position2 = createPosition(result[i]['National Rank'], 'National', false);
+            col1Container.appendChild(position2);
+
+            // 将第一个子容器添加到主容器
+            mainContainer.appendChild(col1Container);
+
+
+            // 创建第二个子容器
+            var col2Container = document.createElement('div');
+            col2Container.classList.add('col', 'col--5-12', 'cols', 'col--tablet', 'mx-0', 'py-0', 'info');
+
+            // 创建第一个子子容器
+            // 创建图像容器
+            var imgContainer = document.createElement('span');
+            imgContainer.classList.add('col', 'col--1', 'px-0', 'py-0', 'img');
+
+            // 创建图像元素
+            var img = document.createElement('img');
+            img.classList.add('lazyload');
+            img.src = result[i]['image'];
+            img.onerror = function () {
+                this.onerror = null;
+                this.src = '/images/placeholder.svg';
+            };
+            img.alt = result[i]['name'];
+            img.loading = 'lazy';
+
+            // 将图像元素添加到图像容器
+            imgContainer.appendChild(img);
+
+            // 创建第二个子子容器
+            // 创建信息容器
+            var infoContainer = document.createElement('div');
+            infoContainer.classList.add('col', 'col--5', 'col--tablet');
+
+            // 创建标题元素
+            var heading = document.createElement('h4');
+            var a = document.createElement('a');
+            a.href = '/u/anil-k-jain';
+            a.title = 'Read more';
+            a.textContent = result[i]['name'];
+            heading.appendChild(a);
+
+            // 创建span元素
+            var schoolContainer = document.createElement('span');
+            schoolContainer.classList.add('sh');
+            var schoolLink = document.createElement('a');
+            schoolLink.href = 'school';
+            schoolLink.title = 'Read more';
+            schoolLink.textContent = result[i]['School'];
+            schoolContainer.appendChild(schoolLink);
+
+            infoContainer.appendChild(heading);
+            infoContainer.appendChild(schoolContainer);
+
+            col2Container.appendChild(imgContainer);
+            col2Container.appendChild(infoContainer);
+
+            // 将第二个子容器添加到主容器
+            mainContainer.appendChild(col2Container);
+
+            // 创建第三个子容器
+            var col3Container = document.createElement('span');
+            col3Container.classList.add('col', 'col--5-12', 'py-0', 'cols', 'mx-0', 'rankings-info');
+
+            // 创建排名元素
+            var ranking1Container = document.createElement('span');
+            ranking1Container.classList.add('col', 'col--2', 'col--tablet', 'py-0', 'ranking');
+
+            // 创建描述元素
+            var desc = document.createElement('span');
+            desc.classList.add('show-tablet', 'desc');
+            desc.textContent = 'D-index';
+
+            // 创建排名元素
+            var ranking = document.createElement('span');
+            ranking.classList.add('ranking', 'no-wrap');
+            ranking.textContent = result[i]['D-Index'];
+
+            ranking1Container.appendChild(desc);
+            ranking1Container.appendChild(ranking);
+
+            col3Container.appendChild(ranking1Container);
+
+            // 创建引用元素
+            var ranking2Container = document.createElement('span');
+            ranking2Container.classList.add('col', 'col--2', 'col--tablet', 'tablet-no-border', 'py-0', 'ranking');
+            // 创建描述元素
+            var desc2 = document.createElement('span');
+            desc2.classList.add('show-tablet', 'desc');
+            desc2.textContent = 'Citations';
+            // 创建排名元素
+            var ranking2 = document.createElement('span');
+            ranking2.classList.add('ranking', 'no-wrap');
+            ranking2.textContent = result[i]['Citations'];
+
+            ranking2Container.appendChild(desc2);
+            ranking2Container.appendChild(ranking2);
+
+            col3Container.appendChild(ranking2Container);
+
+            // 创建隐藏的排名元素
+            var ranking3Container = document.createElement('span');
+            ranking3Container.classList.add('col', 'col--2', 'py-0', 'hide-tablet', 'ranking');
+
+            var ranking3 = document.createElement('span');
+            ranking3.classList.add('col', 'col--3', 'py-0', 'ranking', 'no-wrap');
+            ranking3.textContent = result[i]['#DBLP'];
+
+            ranking3Container.appendChild(ranking3);
+
+            col3Container.appendChild(ranking3Container);
+
+            // 将第三个子容器添加到主容器
+            mainContainer.appendChild(col3Container);
+
+            list_item.appendChild(mainContainer);
+
+        }
+        // 创建位置元素的函数
+        function createPosition(positionNumber, descText, hasBorder) {
+            var position = document.createElement('span');
+            position.classList.add('col', 'col--3', 'py-0', 'px-0', 'position');
+
+            if (hasBorder) {
+                position.classList.add('border');
+            }
+
+            position.textContent = positionNumber;
+
+            var desc = document.createElement('span');
+            desc.classList.add('show-tablet', 'desc');
+            desc.textContent = descText;
+
+            position.appendChild(desc);
+
+            return position;
+        }
+
+        function createRanking(descText, value, hideTablet) {
+            var ranking = document.createElement('span');
+            ranking.classList.add('col', 'col--2', 'col--tablet', 'py-0', 'ranking');
+
+            if (!hideTablet) {
+                var desc = document.createElement('span');
+                desc.classList.add('show-tablet', 'desc');
+                desc.textContent = descText;
+                ranking.appendChild(desc);
+            }
+
+            var rankingValue = document.createElement('span');
+            rankingValue.classList.add('ranking', 'no-wrap');
+            rankingValue.textContent = value;
+            ranking.appendChild(rankingValue);
+
+            return ranking;
+        }
+    </script>
+
+
+
+
+
+
+</body>
+
+</html>
